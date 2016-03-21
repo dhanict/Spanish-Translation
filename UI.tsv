@@ -457,256 +457,256 @@ UI_20150317_000456	{@st41b}Habilitado
 UI_20150317_000457	{@st41b}Deshabilitado
 UI_20150317_000458	{@st41b}Crear Grupo
 UI_20150317_000459	{@st43}Listado de Grupo Público {/}
-UI_20150317_000460	{@st59b}Listado de Grupo Público{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
-UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use Search
-UI_20150317_000463	Quest Sharing
-UI_20150317_000464	EXP Distribution
-UI_20150317_000465	Item Distribution
-UI_20150317_000466	{@st43}Invite
-UI_20150317_000467	{@st41b}Invite{/}
+UI_20150317_000460	{@st59b}Listado de Grupo Público{nl}{@st59s} - Busca un grupo al que quieras unirte mediante la visualización de los grupos abiertos en tu servidor. {nl} -Usa la opción buscar para encontrar un grupo al que quieras unirte.{/}
+UI_20150317_000461	{@st59}Cerrar Listado de Grupo{/}
+UI_20150317_000462	Usa Buscar
+UI_20150317_000463	Compartir Quest
+UI_20150317_000464	Distribución de EXP
+UI_20150317_000465	Distribución de Items
+UI_20150317_000466	{@st43}Invitar
+UI_20150317_000467	{@st41b}Invitar{/}
 UI_20150317_000468	{s18}{ol}{gr gradation1}Logout PC rules{/}
 UI_20150317_000469	{ol}Conditions for applying rules
 UI_20150317_000470	{ol}Action for applying rules
 UI_20150317_000471	Enter a name for the rule
 UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Register Rules
-UI_20150317_000474	{Gr gradation1}Cancel{/}
-UI_20150317_000475	Cancel Action
-UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
-UI_20150317_000478	{@st59}Close{/}
-UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000474	{Gr gradation1}Cancelar{/}
+UI_20150317_000475	Cancelar Acción
+UI_20150317_000476	{@st43}Info de Acompañante
+UI_20150317_000477	{@st59b}Info de Acompañante{nl}{@st59s} - Puedes poner a tu acompañante en Modo Activo o Descanso usando el botón más abajo. {nl} - Los atributos e items equipados de tu acompañanate pueden ser personalizados. {/}
+UI_20150317_000478	{@st59}Cerrar{/}
+UI_20150317_000479	{@st41b}Nombre : {@sti9}%s{/}
+UI_20150317_000480	{@sti9}%s{@st41b}Cercanía : {@sti9}%s {@st41b}Nivel{/}
 UI_20150317_000481	{@st41b}EXP{/}
 UI_20150317_000482	{@st41b}Stamina{/}
-UI_20150317_000483	{@st41b}Affinity{/}
-UI_20150317_000484	{@st41b}Attributes and Information
-UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
-UI_20150317_000487	{@st59}Close{/}
-UI_20150317_000488	{@st59}Close{/}
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
-UI_20150317_000490	{@st43}Help{/}
-UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
-UI_20150317_000493	{@st43}Poison Pot{/}
-UI_20150317_000494	{@st59}Close{/}
-UI_20150317_000495	{@st59}Need to write{/}
-UI_20150317_000496	Poison Amount: %s
-UI_20150317_000497	Items that can be used to Craft poison
-UI_20150317_000498	Select All
-UI_20150317_000499	Click again to de-select all
-UI_20150317_000500	Crafting
-UI_20150317_000501	shuffle shuffle mix and shuffle
-UI_20150317_000502	{@st43}Category{/}
-UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Target{/}
-UI_20150317_000505	{@st43}Level{/}
-UI_20150317_000506	{@st43}Funds{/}
-UI_20150317_000507	{@st43}Rate{/}
-UI_20150317_000508	{@st43}PvP Win/Loss Ratio{/}
-UI_20150317_000509	{@st59}Close{/}
-UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}
-UI_20150317_000511	{@sti5}Total Amount : %s{/}
-UI_20150317_000512	{@st41b} Purchase
-UI_20150317_000513	{@st43}Gained materials for a craftable item!
+UI_20150317_000483	{@st41b}Afinidad{/}
+UI_20150317_000484	{@st41b}Atributos e Información
+UI_20150317_000485	{@st43}Acompañanate{/}
+UI_20150317_000486	{@st59b}Acompañante{nl}{@st59s} - Clicka en un item en la lista para ver más información. {/}
+UI_20150317_000487	{@st59}Cerrar{/}
+UI_20150317_000488	{@st59}Cerrar{/}
+UI_20150317_000489	{@st59}Ayuda{nl} - Ve información detallada y consejos. {nl} - Ve otros temas de la Lista de Ayuda{/}
+UI_20150317_000490	{@st43}Ayuda{/}
+UI_20150317_000491	Temas de Ayuda
+UI_20150317_000492	{ol}{#AAAA00}{s16}Tiempo Empleado : %s
+UI_20150317_000493	{@st43}Bote de Veneno{/}
+UI_20150317_000494	{@st59}Cerrar{/}
+UI_20150317_000495	{@st59}Necesario para escribir{/}
+UI_20150317_000496	Cantidad de Veneno: %s
+UI_20150317_000497	Este item puede ser usado para Fabricar veneno
+UI_20150317_000498	Seleccionar Todo
+UI_20150317_000499	Clicka otra vez para deseleccionar todo.
+UI_20150317_000500	Fabricación
+UI_20150317_000501	Mezcla la mezcla y mezcla
+UI_20150317_000502	{@st43}Categoría{/}
+UI_20150317_000503	{@st43}Yo{/}
+UI_20150317_000504	{@st43}Objetivo{/}
+UI_20150317_000505	{@st43}Nivel{/}
+UI_20150317_000506	{@st43}Fondos{/}
+UI_20150317_000507	{@st43}Tasa{/}
+UI_20150317_000508	{@st43}Tasa de Victoria/Derrotas PvP{/}
+UI_20150317_000509	{@st59}Cerrar{/}
+UI_20150317_000510	{@sti5}Importe de la Compra Total : %s{/}
+UI_20150317_000511	{@sti5}Importe Total : %s{/}
+UI_20150317_000512	{@st41b} Comprar
+UI_20150317_000513	{@st43}¡Ganó materiales para un item fabricable!
 UI_20150317_000514	{@st43}Magnum Opus{/}
-UI_20150317_000515	{@st41}Delete All
+UI_20150317_000515	{@st41}Eliminar Todo
 UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
-UI_20150317_000517	{@st41}Combine
+UI_20150317_000517	{@st41}Combinar
 UI_20150317_000518	{@st43}Quests{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
-UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandoned{/}
-UI_20150317_000522	{@st43}{s22}Quest Information{/}
-UI_20150317_000523	Mission Complete
-UI_20150317_000524	{@st41}Complete{/}
-UI_20150317_000525	Mission Progress Info
-UI_20150317_000526	{s18}{ol}Quest Information
-UI_20150317_000527	{s16}Time Left
-UI_20150317_000528	Use quest item
-UI_20150317_000529	Quest Hint
-UI_20150317_000530	{@st41}Confirm{/}
-UI_20150317_000531	{@st43}{s22}Quest Completed{/}
-UI_20150317_000532	{@st41b}Complete{/}
-UI_20150317_000533	{@st41}Accept{/}
-UI_20150317_000534	{@st41}Decline{/}
-UI_20150317_000535	{@st44}Go Back{/}
-UI_20150317_000536	Which quest would you like to go back to?
-UI_20150317_000537	{@st41b}Quest class name{/}
-UI_20150317_000538	{@st59}Expand Slots{/}
-UI_20150317_000539	{@st59}Reduce Slots{/}
-UI_20150317_000540	{@st59}Summon Companion.{/}
-UI_20150317_000541	{@st44}Menu{/}
-UI_20150317_000542	{@st60}Character Selection{/}
-UI_20150317_000543	{@st60}Logout{/}
-UI_20150317_000544	{@st60}Quit Game{/}
-UI_20150317_000545	{@st60}Game Settings{/}
-UI_20150317_000546	{@st60}Go Back{/}
-UI_20150317_000547	{@st41}Skip Tutorial{/}
-UI_20150317_000548	{@st41}Character Selection{/}
-UI_20150317_000549	{@st41}Logout{/}
-UI_20150317_000550	{@st41}Quit Game{/}
-UI_20150317_000551	{@st41}Go Back{/}
-UI_20150317_000552	{@st43}{s22}Gather for the raid!
-UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can stop them.
-UI_20150317_000554	{@st43}{s22}Game Settings{/}
-UI_20150317_000555	{@sti7}Searching for a raid party...{/}
-UI_20150317_000556	{@st41b}Cancel participation
-UI_20150317_000557	{@st41b}I'll do something about it!
-UI_20150317_000558	{@st41b}I don't think I can help this time...
-UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
-UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
-UI_20150317_000561	{@st41b}Increase the number of selections
-UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}
+UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Cuando estas en una nueva quest, será añadida al seguimiento de quest. {nl} - Una misión principal es mostrada en color amarillo, mientras que una misión secundaria es mostrada en azul. {nl} - La flecha en los pies del personaje conduce a la localización de tu quest. {nl} - Si completaste una quest, un icono de 'Volver' será mostrado en el seguimiento de quest. {nl}    (Telepórtate al Quest NPC usando la Tecla Retroceso o clickando con el ratón) {nl} - Añade o elimina quests en el seguimiento de quest marcando o desmarcando la casilla frente al nombre de la quest. {/}
+UI_20150317_000520	{@st41b}En Progreso{/}
+UI_20150317_000521	{@st41b}Abandonada{/}
+UI_20150317_000522	{@st43}{s22}Información de Quest{/}
+UI_20150317_000523	Missión Completada
+UI_20150317_000524	{@st41}Completada{/}
+UI_20150317_000525	Info del Progreso de la Misión
+UI_20150317_000526	{s18}{ol}Informacion de la Quest
+UI_20150317_000527	{s16}Tiempo Restante
+UI_20150317_000528	Usa el Quest item
+UI_20150317_000529	Sugerencia de Quest
+UI_20150317_000530	{@st41}Confirmar{/}
+UI_20150317_000531	{@st43}{s22}Quest Completada{/}
+UI_20150317_000532	{@st41b}Completada{/}
+UI_20150317_000533	{@st41}Aceptar{/}
+UI_20150317_000534	{@st41}Rechazar{/}
+UI_20150317_000535	{@st44}Volver{/}
+UI_20150317_000536	¿A cuál Quest te gustaría volver?
+UI_20150317_000537	{@st41b}Nombre de Quest de Clase{/}
+UI_20150317_000538	{@st59}Expandir Huecos{/}
+UI_20150317_000539	{@st59}Reducir Huecos{/}
+UI_20150317_000540	{@st59}Invocar Acompañante.{/}
+UI_20150317_000541	{@st44}Menú{/}
+UI_20150317_000542	{@st60}Selección de Personaje{/}
+UI_20150317_000543	{@st60}Desconectar{/}
+UI_20150317_000544	{@st60}Quitar Juego{/}
+UI_20150317_000545	{@st60}Ajustes del Juego{/}
+UI_20150317_000546	{@st60}Volver{/}
+UI_20150317_000547	{@st41}Saltar Tutorial{/}
+UI_20150317_000548	{@st41}Selección de Personaje{/}
+UI_20150317_000549	{@st41}Desconectar{/}
+UI_20150317_000550	{@st41}Quitar Juego{/}
+UI_20150317_000551	{@st41}Volver{/}
+UI_20150317_000552	{@st43}{s22}¡Reunirse para la incursión!
+UI_20150317_000553	{@st41b}Los monstruos se acercan a las afueras del castillo de la ciudad. Sólo tú puedes detenerlos.
+UI_20150317_000554	{@st43}{s22}Ajustes del Juego{/}
+UI_20150317_000555	{@sti7}Buscando un grupo de incursión...{/}
+UI_20150317_000556	{@st41b}Cancelar participación
+UI_20150317_000557	{@st41b}¡Hare algo al respecto!
+UI_20150317_000558	{@st41b}No creo que pueda ayudar esta vez...
+UI_20150317_000559	{@sti7}{s24}Seleccinar Recompensas de Incursión{/}
+UI_20150317_000560	{@st42b}Tiempo restante {@st43}%s{@st42b} segundos{/}
+UI_20150317_000561	{@st41b}Incrementa el número de selecciones
+UI_20150317_000562	{@43b}{s22} Nº de veces seleccionable : {@st43}%s{/}
 UI_20150317_000563	shadow_box tentativeremoval
 UI_20150317_000564	{@st43}Ranking{/}
-UI_20150317_000565	{@st59}Close{/}
-UI_20150317_000566	{@st41}Monster Kill Top 100{/}
-UI_20150317_000567	{@st41}Damage Top 100{/}
-UI_20150317_000568	{@st41}Money Money Top 100{/}
-UI_20150317_000569	{@st41}Level Up Top 100{/}
-UI_20150317_000570	{@st41b}Menu{/}
-UI_20150317_000571	{@st43}{s22}Enhance Item{/}
-UI_20150317_000572	{@st41b}Selected Item
-UI_20150317_000573	{@st41b}Anvil
+UI_20150317_000565	{@st59}Cerrar{/}
+UI_20150317_000566	{@st41}Top 100 Muertes de Monstruos{/}
+UI_20150317_000567	{@st41}Top 100 Daño{/}
+UI_20150317_000568	{@st41}Top 100 Dinero{/}
+UI_20150317_000569	{@st41}Top 100 Subida de Nivel{/}
+UI_20150317_000570	{@st41b}Menú{/}
+UI_20150317_000571	{@st43}{s22}Mejorar Item{/}
+UI_20150317_000572	{@st41b}Item Seleccionado
+UI_20150317_000573	{@st41b}Yunque
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
-UI_20150317_000575	{@st41} {s20}Price : %s
-UI_20150317_000576	{@st41b}Enhance{/}
-UI_20150317_000577	{@st59}Start Item Enhancement{/}
-UI_20150317_000578	{@st59}Close{/}
-UI_20150317_000579	{@st41b} Would you like to refine the {@sti9}×%s{/} selected items?{/}
-UI_20150317_000580	{@st43}Enhancement
-UI_20150317_000581	{@st44}Enhance Item{/}
-UI_20150317_000582	{s24}{b}{#000000}Enhancement Complete!
-UI_20150317_000583	{@st41}Enhance Again{/}
-UI_20150317_000584	{@st41}Close{/}
-UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}
-UI_20150317_000586	Equipped Equipment
-UI_20150317_000587	Equipment in the Inventory
-UI_20150317_000588	{Gr gradation1}Select All{/}
-UI_20150317_000589	Select All
-UI_20150317_000590	{Gr gradation1}Repair{/}
-UI_20150317_000591	{@st43}Repair{/}
-UI_20150317_000592	List of repairable items
-UI_20150317_000593	{@st41b}Repair Cost{/}
-UI_20150317_000594	{@st41b}After Repair{/}
-UI_20150317_000595	{@st41b}Repair{/}
-UI_20150317_000596	Repair the selected equipment.
-UI_20150317_000597	{@st59}Close Item Repair{/}
-UI_20150317_000598	{@st43}Item Reinforcing{/}
-UI_20150317_000599	{@st41}List of reinforceable items{/}
-UI_20150317_000600	{@st44}Reinforce the Item{/}
-UI_20150317_000601	{@st42}Reinforce{/}
-UI_20150317_000602	{@st59}Reinforce with the current settings{/}
-UI_20150317_000603	{@st59}Do not Reinforce{/}
-UI_20150317_000604	{@st44}Resume{/}
-UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapacitated{/}{@st41b}{/}
-UI_20150317_000606	{@st41b}Respawn at the nearest Revival Point{/}
-UI_20150317_000607	{@st41b}Respawn here (requires %s iCoins) {/}
-UI_20150317_000608	{@st41b}Return to field{/}
-UI_20150317_000609	{@st41b}Abandon quest and restart{/}
-UI_20150317_000610	{@st41b}Try again{/}
-UI_20150317_000611	Sanctuary of Resurrection (70031)
-UI_20150317_000612	Required item is missing.
+UI_20150317_000575	{@st41} {s20}Precio : %s
+UI_20150317_000576	{@st41b}Mejorar{/}
+UI_20150317_000577	{@st59}Comenzar Mejora de Item{/}
+UI_20150317_000578	{@st59}Cerrar{/}
+UI_20150317_000579	{@st41b} ¿Te gustaría refinal el {@sti9}×%s{/} item seleccionado?{/}
+UI_20150317_000580	{@st43}Mejora
+UI_20150317_000581	{@st44}Mejorar Item{/}
+UI_20150317_000582	{s24}{b}{#000000}Mejora Completada!
+UI_20150317_000583	{@st41}Mejorar Otra vez{/}
+UI_20150317_000584	{@st41}Cerrar{/}
+UI_20150317_000585	{s18}{ol}{gr gradation1}Reparar Equipamiento{/}
+UI_20150317_000586	Equipamiento Equipado
+UI_20150317_000587	Equipamiento en el Inventario
+UI_20150317_000588	{Gr gradation1}Seleccionar Todo{/}
+UI_20150317_000589	Seleccionar Todo
+UI_20150317_000590	{Gr gradation1}Reparar{/}
+UI_20150317_000591	{@st43}Reparar{/}
+UI_20150317_000592	Lista de items reparabales
+UI_20150317_000593	{@st41b}Coste de Reparación{/}
+UI_20150317_000594	{@st41b}Tras Reparar{/}
+UI_20150317_000595	{@st41b}Reparar{/}
+UI_20150317_000596	Repara el equipamiento seleccionado.
+UI_20150317_000597	{@st59}Cerrar Reparar Item{/}
+UI_20150317_000598	{@st43}Item reforzable{/}
+UI_20150317_000599	{@st41}Lista de items reforzables{/}
+UI_20150317_000600	{@st44}Refuerza el item{/}
+UI_20150317_000601	{@st42}Reforzar{/}
+UI_20150317_000602	{@st59}Reforzar con la configuración actual{/}
+UI_20150317_000603	{@st59}No Reforzar{/}
+UI_20150317_000604	{@st44}Reanudar{/}
+UI_20150317_000605	{@st41b}Has sido {/}{s20}{#cc6600}{ol} incapacitado{/}{@st41b}{/}
+UI_20150317_000606	{@st41b}Reaparecer en el Punto de Resurrección{/}
+UI_20150317_000607	{@st41b}Reaparecer aquí (requiere %s iCoins) {/}
+UI_20150317_000608	{@st41b}Volver al mapa{/}
+UI_20150317_000609	{@st41b}Abandonar quest y reiniciar{/}
+UI_20150317_000610	{@st41b}Intentar otra vez{/}
+UI_20150317_000611	Santuario de Resurrección (70031)
+UI_20150317_000612	Falta el item requerido.
 UI_20150317_000613	Rest Quickslot
-UI_20150317_000614	{@st43}Dialog box{/}
-UI_20150317_000615	Temporary Name
-UI_20150317_000616	{@st41b} {s18} Insufficient Inventory Space 
-UI_20150317_000617	You cannot obtain the item because your inventory is full{nl}Please free up some space in your inventory.
-UI_20150317_000618	{@st44}Set Item acquired!{/}
-UI_20150317_000619	Please select an item
-UI_20150317_000620	{@st59b} shop {nl} {@st59s} - Right-click and input the quantity to purchase multiple {nl} - Double right-click to sell the entire stack of item {/}
-UI_20150317_000621	{@st59}Close{/}
-UI_20150317_000622	{@st59}First Page{/}
-UI_20150317_000623	{@st59}Next Page{/}
-UI_20150317_000624	{@st59}Last Page{/}
-UI_20150317_000625	{@st41b}Reset{/}
-UI_20150317_000626	{@st59}Reset Shopping Cart{/}
-UI_20150317_000627	{@st41b}Confirm{/}
-UI_20150317_000628	{@st59}Confirm Transaction{/}
-UI_20150317_000629	{@st43}Shop{/}
-UI_20150317_000630	{@st41b}Items Bought{/}
-UI_20150317_000631	{@st41b}Items Sold{/}
-UI_20150317_000632	{@st41b}Price{/}
+UI_20150317_000614	{@st43}Caja de diálogo{/}
+UI_20150317_000615	Nombre Temporal
+UI_20150317_000616	{@st41b} {s18} Insuficiente Espacio en Inventario 
+UI_20150317_000617	No puedes obtener el item porque tu inventario esta lleno{nl}Por favor libera algunos espacios del inventario.
+UI_20150317_000618	{@st44}¡Conjunto de artículos adquiridos!{/}
+UI_20150317_000619	Por favor selecciona un item
+UI_20150317_000620	{@st59b} Tienda {nl} {@st59s} - Click derecho e intruduce la cantidad para una compra múltiple {nl} - Doble click derecho para vender todo el montón de un item {/}
+UI_20150317_000621	{@st59}Cerrar{/}
+UI_20150317_000622	{@st59}Primera Página{/}
+UI_20150317_000623	{@st59}Siguiente Página{/}
+UI_20150317_000624	{@st59}Última Página{/}
+UI_20150317_000625	{@st41b}Resetear{/}
+UI_20150317_000626	{@st59}Resetear Carro de la Compra{/}
+UI_20150317_000627	{@st41b}Confirmar{/}
+UI_20150317_000628	{@st59}Confirmar Transacción{/}
+UI_20150317_000629	{@st43}Tienda{/}
+UI_20150317_000630	{@st41b}Items Comprados{/}
+UI_20150317_000631	{@st41b}Items Vendidos{/}
+UI_20150317_000632	{@st41b}Precio{/}
 UI_20150317_000633	{@st41b}Balance{/}
-UI_20150317_000634	{@st41b}My Sold Items{/}
-UI_20150317_000635	{@st41}Empty slots{/}
+UI_20150317_000634	{@st41b}Mis Items Vendidos{/}
+UI_20150317_000635	{@st41}Huecos Vacios{/}
 UI_20150317_000636	{@st43}Total{/}
-UI_20150317_000637	{@st41}Settle Transaction{/}
+UI_20150317_000637	{@st41}Liquidar Transacción{/}
 UI_20150317_000638	{@st41}After Transaction{/}
-UI_20150317_000639	{@st41}Items purchased{/}
-UI_20150317_000640	{@sti1c}Simony
-UI_20150317_000641	{@st41}Crafting Skills
-UI_20150317_000642	{@st42}Level %s{/}
-UI_20150317_000643	Crafting costs
-UI_20150317_000644	Crafting Qty
-UI_20150317_000645	Approximately %s seconds required
-UI_20150317_000646	{@st41}Craft
-UI_20150317_000647	{@st43}Skills & Attributes{/}
-UI_20150317_000648	{@st59}Close Classes & Skills{/}
-UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
-UI_20150317_000650	{@st41b}Apply{/}
-UI_20150317_000651	{@st59}Apply{/}
+UI_20150317_000639	{@st41}Items comprados{/}
+UI_20150317_000640	{@sti1c}Simonía
+UI_20150317_000641	{@st41}Habilidades de Fabricación
+UI_20150317_000642	{@st42}Nivel %s{/}
+UI_20150317_000643	Costes de Fabricación
+UI_20150317_000644	Cantidad de Fabricación
+UI_20150317_000645	Aproximadamente %s segundos requeridos
+UI_20150317_000646	{@st41}Fabricar
+UI_20150317_000647	{@st43}Habilidades y Atributos{/}
+UI_20150317_000648	{@st59}Cerrar Clases y Habilidades{/}
+UI_20150317_000649	{@st59b}Clases{nl}{@st59s}- Puede aprender nuevas habilidades incrementando el Círculo de su clase. {nl} - Puede elegir entre 3 clases disponibles para avanzar a partir de su 1er al 2º avance. {nl} - Puede avanzar en la misma clase hasta 3 veces {nl} - No puede volver a la clase anterior una vez ha avanzado a otra clase {nl} - Has de consumir todos tus Puntos de Habilidad para poder avanzar {nl} - Puede elegir la misma clase{nl}{@st59b}Skills{nl}{@st59s} - Puede incrementar el rango de cada habilidad a nivel 5{nl} - Los atributos aprendidos en tu Maestro pueden verse abajo de tus habilidades. {/}
+UI_20150317_000650	{@st41b}Aplicar{/}
+UI_20150317_000651	{@st59}Aplicar{/}
 UI_20150317_000652	Cleric
-UI_20150317_000653	{@st59}Cancel{/}
-UI_20150317_000654	Learning {#ff4400}%s (Lv. %s){/}...
+UI_20150317_000653	{@st59}Cancelar{/}
+UI_20150317_000654	Aprendiendo {#ff4400}%s (Lv. %s){/}...
 UI_20150317_000655	Psychohassle
-UI_20150317_000656	%s minutes left
+UI_20150317_000656	%s minutos restantes
 UI_20150317_000657	{@st43}Pose{/}
-UI_20150317_000658	{@st59}Close{/}
+UI_20150317_000658	{@st59}Cerrar{/}
 UI_20150317_000659	{@st41}Board{/}
-UI_20150317_000660	{@st41}Trade{/}
-UI_20150317_000661	{@st41}Social Functions{/}
-UI_20150317_000662	{@st41b}Write{/}
-UI_20150317_000663	{@st41}Register{/}
-UI_20150317_000664	{@st59}Register Post{/}
-UI_20150317_000665	{@st41}Start MyPage{/}
-UI_20150317_000666	{@st59}Publish MyPage{/}
-UI_20150317_000667	{@st59}Register Greetings{/}
-UI_20150317_000668	{@st41b}1. Menu{/}
-UI_20150317_000669	{@st41}Visit{/}
-UI_20150317_000670	{@st59}Visit MyPage{/}
-UI_20150317_000671	{@st41}Sell{/}
-UI_20150317_000672	{@st59}Sell Item{/}
+UI_20150317_000660	{@st41}Comercio{/}
+UI_20150317_000661	{@st41}Funciones Sociales{/}
+UI_20150317_000662	{@st41b}Escribir{/}
+UI_20150317_000663	{@st41}Registrar{/}
+UI_20150317_000664	{@st59}Registrar Post{/}
+UI_20150317_000665	{@st41}Comenzar MyPage{/}
+UI_20150317_000666	{@st59}Publicar MyPage{/}
+UI_20150317_000667	{@st59}Registrar Saludos{/}
+UI_20150317_000668	{@st41b}1. Menú{/}
+UI_20150317_000669	{@st41}Visitar{/}
+UI_20150317_000670	{@st59}Visitar MyPage{/}
+UI_20150317_000671	{@st41}Vender{/}
+UI_20150317_000672	{@st59}Vender Item{/}
 UI_20150317_000673	{@st43}Living{/}
-UI_20150317_000674	{@st59}Close{/}
-UI_20150317_000675	{@st41}View All{/}
-UI_20150317_000676	{@st41}Create Map{/}
-UI_20150317_000677	{@st41}%s/min (%s in hand){/}
+UI_20150317_000674	{@st59}Cerrar{/}
+UI_20150317_000675	{@st41}Ver Todo{/}
+UI_20150317_000676	{@st41}Crear Mapa{/}
+UI_20150317_000677	{@st41}%s/min (%s en mano){/}
 UI_20150317_000678	Keyboard Warrior
-UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
-UI_20150317_000680	{@st41_yellow}Employment Time
+UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Nivel{/}
+UI_20150317_000680	{@st41_yellow}Tiempo Empleado
 UI_20150317_000681	{@st43}Graffiti{/}
-UI_20150317_000682	{@st59}Close{/}
-UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}
-UI_20150317_000684	{@st41b}Colors{/}
-UI_20150317_000685	{@st41b}Quantity{/}
-UI_20150317_000686	{@st41b}Brush{/}
-UI_20150317_000687	{@st43}Draw{/}
-UI_20150317_000688	{@st59}Draw the completed picture on the ground.{/}
-UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000690	{@st59}Save drawings{/}
-UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}
-UI_20150317_000692	{@st59}Load previously drawn pictures.{/}
-UI_20150317_000693	{@st59}Selected color 1{/}
-UI_20150317_000694	{@st59}Selected color 2{/}
-UI_20150317_000695	{@st59}Color List{/}
-UI_20150317_000696	{@st59}Selected Brush{/}
-UI_20150317_000697	{@st59}Brush 1{/}
-UI_20150317_000698	{@st59}Brush 2{/}
-UI_20150317_000699	{@st59}Brush 3{/}
-UI_20150317_000700	{@st59}Brush 4{/}
-UI_20150317_000701	{@st59}Brush 5{/}
-UI_20150317_000702	{@st59}Brush 6{/}
-UI_20150317_000703	{@st49}People who like this{/}
-UI_20150317_000704	{s20}{#050505}Describe whatever
-UI_20150317_000705	{@st41} All {/}
-UI_20150317_000706	{@st41} Party {/}
-UI_20150317_000707	{@st41} Monster {/}
-UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
+UI_20150317_000682	{@st59}Cerrar{/}
+UI_20150317_000683	{@st41b}Consejo : Dibujar una imagen en el cuadro de abajo{/}
+UI_20150317_000684	{@st41b}Colores{/}
+UI_20150317_000685	{@st41b}Cantidad{/}
+UI_20150317_000686	{@st41b}Pincel{/}
+UI_20150317_000687	{@st43}Dibujar{/}
+UI_20150317_000688	{@st59}Dibuja la imagen completa en el suelo.{/}
+UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
+UI_20150317_000690	{@st59}Guardar Dibujos{/}
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Cargar{/}{/}
+UI_20150317_000692	{@st59}Cargar imagenes de dibujos anteriores.{/}
+UI_20150317_000693	{@st59}Color Selecionado 1{/}
+UI_20150317_000694	{@st59}Color Seleccionado 2{/}
+UI_20150317_000695	{@st59}Lista de Colores{/}
+UI_20150317_000696	{@st59}Pincel Seleccionado{/}
+UI_20150317_000697	{@st59}Pincel 1{/}
+UI_20150317_000698	{@st59}Pincel 2{/}
+UI_20150317_000699	{@st59}Pincel 3{/}
+UI_20150317_000700	{@st59}Pincel 4{/}
+UI_20150317_000701	{@st59}Pincel 5{/}
+UI_20150317_000702	{@st59}Pincel 6{/}
+UI_20150317_000703	{@st49}Gente a la que le gusta esto{/}
+UI_20150317_000704	{s20}{#050505}Describe lo que sea
+UI_20150317_000705	{@st41} Todo {/}
+UI_20150317_000706	{@st41} Grupo {/}
+UI_20150317_000707	{@st41} Monstruo {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Puntos de Status Restantes ▶ {@st46}%s
+UI_20150317_000709	{@st59b}Mi Información{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Title{/}
 UI_20150317_000712	Show Class
