@@ -1,7 +1,7 @@
 UI_20150317_000001	{@st41b}Aprende atributos{nl}desde el respectivo maestro de cada clase.{/}
-UI_20150317_000002	{@st43}Lista de atributos {/}
+UI_20150317_000002	{@st43}Lista de Atributos {/}
 UI_20150317_000003	{@st59}Cerrar{/}
-UI_20150317_000004	{@st43}Aprender atributos{/}
+UI_20150317_000004	{@st43}Aprender Atributos{/}
 UI_20150317_000005	{@st59}Cerrar{/}
 UI_20150317_000006	{@st41b}Plata{/}
 UI_20150317_000007	Mis Logros
@@ -13,25 +13,25 @@ UI_20150317_000012	{@st41b}Una vez{/}
 UI_20150317_000013	{@st41b}Todo{/}
 UI_20150317_000014	{@st41b}Pausa{/}
 UI_20150317_000015	{@st43}Jornal de Aventura{/}
-UI_20150317_000016	{@st43}Casa de subasta{/}
+UI_20150317_000016	{@st43}Casa de Subasta{/}
 UI_20150317_000017	{@st59}Cerrar{/}
 UI_20150317_000018	{@st41b}Items vendidos : ×%s, Items no vendidos : ×%s{/}
 UI_20150317_000019	{@st43}{s22}Item Auction{/}
 UI_20150317_000020	{@st59}Cerrar{/}
 UI_20150317_000021	Availest
-UI_20150317_000022	{@st41b}Tiempo restante
+UI_20150317_000022	{@st41b}Tiempo Restante
 UI_20150317_000023	3 horas 16 minutos
-UI_20150317_000024	{@st41b}Precio de salida
+UI_20150317_000024	{@st41b}Precio de Salida
 UI_20150317_000025	{@st41b}Pujas
-UI_20150317_000026	{@st41b}Precio actual
-UI_20150317_000027	{@st41b}Precio de puja
-UI_20150317_000028	{@st41b}Precio de puja mínimo desde {@st57}%s{@st41b}plata{/}
+UI_20150317_000026	{@st41b}Precio Actual
+UI_20150317_000027	{@st41b}Precio de Puja
+UI_20150317_000028	{@st41b}Precio de Puja mínimo desde {@st57}%s{@st41b}plata{/}
 UI_20150317_000029	{@st41b}Puja{/}
 UI_20150317_000030	{@st43b}Compra ya!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@st44}Configuración de permisos{/}
+UI_20150317_000031	{@st44}Configuración de Permisos{/}
 UI_20150317_000032	{@st45}Nombre: %s{/}
-UI_20150317_000033	{@st45}Almacen de grupo{/}
-UI_20150317_000034	{@st49}Ningunp
+UI_20150317_000033	{@st45}Almacen de Grupo{/}
+UI_20150317_000034	{@st49}Ninguno
 UI_20150317_000035	{@st49}Almacenar
 UI_20150317_000036	{@st49}Recuperar
 UI_20150317_000037	{@st45}Inspeccionar{/}
@@ -39,19 +39,19 @@ UI_20150317_000038	{@st49}Crear
 UI_20150317_000039	{@st49}Borrar
 UI_20150317_000040	{@st44}Guardar{/}
 UI_20150317_000041	{@st44}Cancelar{/}
-UI_20150317_000042	{@st43}{s22}Tienda de peinados{/}
-UI_20150317_000043	{@st59}Peinado anterior{/}
-UI_20150317_000044	{@st59}Siguiente peinado{/}
+UI_20150317_000042	{@st43}{s22}Tienda de Peinados{/}
+UI_20150317_000043	{@st59}Peinado Anterior{/}
+UI_20150317_000044	{@st59}Siguiente Peinado{/}
 UI_20150317_000045	{@st41b} Cambiar {s18} (100 iCoins requeridos) {/}
 UI_20150317_000046	{@st59}Cambiar al peinado seleccionado.{/}
 UI_20150317_000047	{@st41}Cancelar
-UI_20150317_000048	{@st43}Mercado negro{/}
-UI_20150317_000049	Nombre del libro
+UI_20150317_000048	{@st43}Mercado Negro{/}
+UI_20150317_000049	Nombre del Libro
 UI_20150317_000050	{@St59}Parar de leer{/}
 UI_20150317_000051	{@st59}Página anterior{/}
 UI_20150317_000052	{@st59}Siguiente página{/}
 UI_20150317_000053	{@st47}%s apareció!
-UI_20150317_000054	{@st43}Puntuacion{/}
+UI_20150317_000054	{@st43}Puntuación{/}
 UI_20150317_000055	Daño recibido
 UI_20150317_000056	Technique Bonus
 UI_20150317_000057	Evasion Bonus
@@ -69,12 +69,12 @@ UI_20150317_000068	{@st43}Cancelar
 UI_20150317_000069	Máquina vendedora de Buffs
 UI_20150317_000070	{@st59}Cerrar
 UI_20150317_000071	{@st59}Máquina vendedora de Buffs{nl} - Puedes pagar Silver para recibir Buffs de otro jugador.
-UI_20150317_000072	Menú carruaje
+UI_20150317_000072	Menú Carruaje
 UI_20150317_000073	{ol}{s22}Desembarcar{/}
 UI_20150317_000074	Casting
-UI_20150317_000075	{@st43}Ajustes de juego{/}
+UI_20150317_000075	{@st43}Ajustes del Juego{/}
 UI_20150317_000076	{@st64}Usa la tecla de flecha para seleccionar una celda!
-UI_20150317_000077	{@st43}Advancement Information {/}
+UI_20150317_000077	{@st43}Información de Avance {/}
 UI_20150317_000078	{@st43}Selecciona Clase
 UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Círculo {/}
@@ -84,7 +84,7 @@ UI_20150317_000083	{@st41b}Ataque {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Apoyo {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Dificultad{@sti7}%s{/}
 UI_20150317_000086	{@st59}Cerrar{/}
-UI_20150317_000087	Alarma de ascenso
+UI_20150317_000087	Alarma de Ascenso
 UI_20150317_000088	{@st43} Ascenso
 UI_20150317_000089	{@sti7}{s14} Personaje {/}
 UI_20150317_000090	{@sti8}{s14} Clase {/}
@@ -112,21 +112,21 @@ UI_20150317_000111	{@st42}Ajustes del chat
 UI_20150317_000112	{@st42}Transparencia
 UI_20150317_000113	Mostrar bocadillos de chat
 UI_20150317_000114	Mostrar Gritos en la parte superior
-UI_20150317_000115	{@st43}Lista de tramposos{/}
+UI_20150317_000115	{@st43}Lista de Tramposos{/}
 UI_20150317_000116	{@st42b}Item{/}
 UI_20150317_000117	{@st42b}Monstruo{/}
 UI_20150317_000118	{@st42b}Mover mapa{/}
-UI_20150317_000119	{@st42b}Orden de combate{/}
+UI_20150317_000119	{@st42b}Orden de Combate{/}
 UI_20150317_000120	{@st41b}Cerrar{/}
 UI_20150317_000121	{s16}{b}Crea items clickando en el botón Crear o haciendo doble click.
 UI_20150317_000122	{s16}{b}ea
-UI_20150317_000123	{s16}{b}Lv.
+UI_20150317_000123	{s16}{b}Nv.
 UI_20150317_000124	{@st41b}Buscar{/}
 UI_20150317_000125	{s16}{b}Invoca monstruos clickando en el botón Crear o haciendo doble click.
 UI_20150317_000126	{s16}{b}ea
 UI_20150317_000127	{s16}{b}Selecciona area designada.
 UI_20150317_000128	{s18}{b}Ver Minimapa{/}
-UI_20150317_000129	{@st41b}Lista de materiales{/}
+UI_20150317_000129	{@st41b}Lista de Materiales{/}
 UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Compra el Collection Deck para añadir items a tu colección. {nl} - La tecla de colección estará disponible cuando uses el Collection Deck Item. {nl} {/}
 UI_20150317_000131	{@st59}Cerrar{/}
 UI_20150317_000132	{@st43}Coleccion{/}
@@ -134,19 +134,19 @@ UI_20150317_000133	{@st43}Color Spray{/}
 UI_20150317_000134	{@st49}Color Spray{/}
 UI_20150317_000135	{@st49}Color{/}
 UI_20150317_000136	{@st49}Restante{/}
-UI_20150317_000137	{@st49}Cepillar{/}
+UI_20150317_000137	{@st49}Pincel{/}
 UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Exportar{/}{/}
 UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}
 UI_20150317_000141	{@st49}Cerrar{/}
-UI_20150317_000142	{@st43}Adopción de acompañante
+UI_20150317_000142	{@st43}Adopción de Acompañante
 UI_20150317_000143	{@st59}Inserta el nombre de tu nuevo acompañanate adoptado {/}
 UI_20150317_000144	{@st41b}Nombre{/}
 UI_20150317_000145	{@st41b}Precio %s{/}
 UI_20150317_000146	{@st59}Cerrar{/}
 UI_20150317_000147	{@st41b}Adoptar
 UI_20150317_000148	{@st59}Confirmar{/}
-UI_20150317_000149	{@st43}Tienda de acompañantes
+UI_20150317_000149	{@st43}Tienda de Acompañantes
 UI_20150317_000150	{@st59}Cerrar{/}
 UI_20150317_000151	{@st43}Otra información del personaje{/}{@st42}
 UI_20150317_000152	{@st59}Cerrar{/}
@@ -154,7 +154,7 @@ UI_20150317_000153	{@st41b}Información
 UI_20150317_000154	{@st41b}Grabar
 UI_20150317_000155	Nombre del equipo
 UI_20150317_000156	Nombre del personaje
-UI_20150317_000157	Circulo {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
+UI_20150317_000157	Círculo {#ffff00}%s{/} %s Nv. {#ffff00}%s{/}
 UI_20150317_000158	Guerrero
 UI_20150317_000159	Índice de aventura {#ffff00}%s{/} (Rango{#ffff00}%s{/}/%s)
 UI_20150317_000160	Índice de aventura {#ffff00}%s{/} ({#ffff00}Sin rango{/})
@@ -163,7 +163,7 @@ UI_20150317_000162	Ajustes
 UI_20150317_000163	Borrar el título de la pestaña para eliminar la pestaña .
 UI_20150317_000164	{@st49}Todo{/}
 UI_20150317_000165	{@st49}Sistema{/}
-UI_20150317_000166	{@st49}Talk{/}
+UI_20150317_000166	{@st49}Hablar{/}
 UI_20150317_000167	{@st49}Combate{/}
 UI_20150317_000168	{@st49}Item{/}
 UI_20150317_000169	{@st43}Créditos{/}
@@ -181,9 +181,9 @@ UI_20150317_000180	{@st45tw2}Cantidad{/}
 UI_20150317_000181	{@st45tw2}Quieres fabricar este item?
 UI_20150317_000182	{@st41}Confirmar{/}
 UI_20150317_000183	Información de Quest
-UI_20150317_000184	{@st59}Cancelar intercambio{/}
+UI_20150317_000184	{@st59}Cancelar Intercambio{/}
 UI_20150317_000185	{@st43}Intercambio{/}
-UI_20150317_000186	Mi lista de intercambios
+UI_20150317_000186	Mi lista de Intercambios
 UI_20150317_000187	Plata : %s
 UI_20150317_000188	Enter
 UI_20150317_000189	{@st41}Aceptar
@@ -191,12 +191,12 @@ UI_20150317_000190	{@st41}Confirmar
 UI_20150317_000191	Otros jugadores (%s) de la lista de intercambios
 UI_20150317_000192	Otros nombres de jugadores
 UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de Mapa{/}
-UI_20150317_000194	{s20}{ol}¡Derrota a la Tribu Vubbe! ¿Te gustaría unirte?
-UI_20150317_000195	{s20}{ol}%s Would you like to join?
+UI_20150317_000194	{s20}{ol}¡Derrota a la Tribu Vubbe! 
+UI_20150317_000195	{s20}{ol}%s ¿Te gustaría unirte?
 UI_20150317_000196	{s20}{ol}Participantes : (1/5)
 UI_20150317_000197	{s20}{ol}Participantes : (%s/%s)
-UI_20150317_000198	{s20}{ol}El juego comenzará después de 1 segundo.
-UI_20150317_000199	{s20}{ol}El juego comenzará después de %s segundos.
+UI_20150317_000198	{s20}{ol}El juego comenzará tras 1 segundo.
+UI_20150317_000199	{s20}{ol}El juego comenzará tras %s segundos.
 UI_20150317_000200	No mostrar más por hoy.
 UI_20150317_000201	No mostrar Eventos de Mapa.
 UI_20150317_000202	Unirse al juego
@@ -279,27 +279,27 @@ UI_20150317_000278	{@st59}Brazalete 2{/}
 UI_20150317_000279	{@st59}Pulsera{/}
 UI_20150317_000280	{@st59}Buscar{/}
 UI_20150317_000281	Peso
-UI_20150317_000282	{@st43}Buff de equipamiento{/}
+UI_20150317_000282	{@st43}Buff de Equipamiento{/}
 UI_20150317_000283	{@st59}Cerrar{/}
 UI_20150317_000284	{@st42}Disponible por Buff
 UI_20150317_000285	{@st42}Consumir{/}
 UI_20150317_000286	{@st42}Correr
 UI_20150317_000287	{@st42}Item objetivo{/}
 UI_20150317_000288	{@st59}Anillo 1{/}
-UI_20150317_000289	{@st43}Fabricación de item{/}
+UI_20150317_000289	{@st43}Fabricación de Item{/}
 UI_20150317_000290	{@st42b}Mostrar items fabricables{/}
 UI_20150317_000291	{@st59}Cerrar{/}
 UI_20150317_000292	{@st43}{s22}Separar item
 UI_20150317_000293	{@st59}Ingresa una cantidad{/}
 UI_20150317_000294	Barra de HP de monstruos
-UI_20150317_000295	{@st44}Item Set adquirido{/}
+UI_20150317_000295	{@st44}Conjunto de Items adquirido{/}
 UI_20150317_000296	Keyboard Warrior
 UI_20150317_000297	Muertes
 UI_20150317_000298	99 minutos 99 segundos
 UI_20150317_000299	38000 puntos
-UI_20150317_000300	Poción de velocidad mejorada
+UI_20150317_000300	Poción de Velocidad Mejorada
 UI_20150317_000301	{@st41}Confirmar{/}
-UI_20150317_000302	{@st59b} Jornal de aventura {nl}{@st59s}- Tu progreso será guardado en el jornal de aventura. {nl} - Puedes progresar en tu Índice de aventura a traves de acciones tales como: obeteniendo items, cazando monstruos, fabricando y explorando mapa.{nl}    Índice de aventura : El total de todos tus índices. {nl}    Crecimiento : 5 puntos por nivel de personaje y nivel de clase {nl}    Items : Equipmiento : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Monstruos : 10 puntos por monstruo (50 puntos por Boss) {nl}    Mapas : 1 punto por 10% explorado {nl}    Quests : 1 punto por quest {nl}    Logros : Varía según el logro {nl}    Fabricación : 10 puntos {nl}    Colección : 5 puntos por una deck y 45 puntos cuando se ha completado {nl} - Puedes recibir una recompensa especial de un NPC en una ciudad dependiendo de tu Índice de aventura. {/}
+UI_20150317_000302	{@st59b} Jornal de Aventura {nl}{@st59s}- Tu progreso será guardado en el jornal de aventura. {nl} - Puedes progresar en tu Índice de aventura a traves de acciones tales como: obeteniendo items, cazando monstruos, fabricando y explorando mapa.{nl}    Índice de aventura : El total de todos tus índices. {nl}    Crecimiento : 5 puntos por nivel de personaje y nivel de clase {nl}    Items : Equipmiento : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Monstruos : 10 puntos por monstruo (50 puntos por Boss) {nl}    Mapas : 1 punto por 10% explorado {nl}    Quests : 1 punto por quest {nl}    Logros : Varía según el logro {nl}    Fabricación : 10 puntos {nl}    Colección : 5 puntos por una deck y 45 puntos cuando se ha completado {nl} - Puedes recibir una recompensa especial de un NPC en una ciudad dependiendo de tu Índice de aventura. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Logros{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Puntos{/}
 UI_20150317_000305	{@st42b} Promedio / %s Puntos {/}
@@ -309,15 +309,15 @@ UI_20150317_000308	%s Puntos
 UI_20150317_000309	Profesión
 UI_20150317_000310	Equipo
 UI_20150317_000311	{@st59}Cerrar{/}
-UI_20150317_000312	{@st43}Ranking de Jornal de aventura{/}
+UI_20150317_000312	{@st43}Ranking de Jornal de Aventura{/}
 UI_20150317_000313	{@st43}{s22}Rango   
 UI_20150317_000314	{@st43}{s22}Nombre
 UI_20150317_000315	{@st43}{s22}Puntuacióm
 UI_20150317_000316	{@st41}Detalles{/}
-UI_20150317_000317	{@st43}Comenzar fabricación{/}
-UI_20150317_000318	{@st59}Comenzar fabricación del item.{/}
+UI_20150317_000317	{@st43}Comenzar Fabricación{/}
+UI_20150317_000318	{@st59}Comenzar Fabricación del Item.{/}
 UI_20150317_000319	{@st44}Mando{/}
-UI_20150317_000320	{@st42}Tiempo límite
+UI_20150317_000320	{@st42}Tiempo Límite
 UI_20150317_000321	{@st56}Muerte{/}
 UI_20150317_000322	{@st56}Overkill{/}
 UI_20150317_000323	{@st56}Dispara{/}
@@ -330,24 +330,24 @@ UI_20150317_000329	{@st43}Hueco{/}
 UI_20150317_000330	{@st59}Cerrar{/}
 UI_20150317_000331	Por favor ingresa tus items
 UI_20150317_000332	Potencial
-UI_20150317_000333	Coste de hueco adicional : {#ff9933}%s{/}{nl}Coste de extracción de Gema : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Añadir hueco
-UI_20150317_000335	{@st41b}Extraer gema
+UI_20150317_000333	Coste de Hueco Adicional : {#ff9933}%s{/}{nl}Coste de Extracción de Gema : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Añadir Hueco
+UI_20150317_000335	{@st41b}Extraer Gema
 UI_20150317_000336	{@st41}Fabricar{/}
 UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Mapa de la zona
-UI_20150317_000339	Zona explorada : 95.5%
-UI_20150317_000340	{@st45tw}Zona explorada %s% {/}
+UI_20150317_000338	Mapa de la Zona
+UI_20150317_000339	Zona Explorada : 95.5%
+UI_20150317_000340	{@st45tw}Zona Explorada %s% {/}
 UI_20150317_000341	{@st59}Cerrar{/}
 UI_20150317_000342	{@st41}Mapa{/}
-UI_20150317_000343	Shift(clear), Ctrl(mid fill)
+UI_20150317_000343	Shift(completo), Ctrl(medio completo)
 UI_20150317_000344	{ol}Título
-UI_20150317_000345	{@st41}Aádir{/}
+UI_20150317_000345	{@st41}Añadir{/}
 UI_20150317_000346	{@st41}Eliminar{/}
 UI_20150317_000347	{@st41}Guardar{/}
 UI_20150317_000348	{@st41}Auto{/}
 UI_20150317_000349	{@st41}Resetear{/}
-UI_20150317_000350	{@st59}Poner cantidad.{/}
+UI_20150317_000350	{@st59}Poner Cantidad.{/}
 UI_20150317_000351	{ol}Grupo
 UI_20150317_000352	{ol}Mensaje
 UI_20150317_000353	{ol}Sonido
@@ -367,7 +367,7 @@ UI_20150317_000366	{@st59}Cerrar{/}
 UI_20150317_000367	{@st42b}Ordenar
 UI_20150317_000368	{@st41b}Comprar
 UI_20150317_000369	{@st43}{s22}Recuperar
-UI_20150317_000370	{@st41b}Recuperar todo
+UI_20150317_000370	{@st41b}Recuperar Todo
 UI_20150317_000371	{@st41b}Recuperar
 UI_20150317_000372	{@st43}{s22}Vender
 UI_20150317_000373	{@st42b}Cantidad
@@ -386,11 +386,11 @@ UI_20150317_000385	{s16}¿Te gustaría unirte a este minijuego?
 UI_20150317_000386	{s16}Participantes : (0/5)
 UI_20150317_000387	{s16}Participantes : (%s /%s)
 UI_20150317_000388	{s16}El juego comenzará tras 1 segundo.
-UI_20150317_000389	{s16}El juego cmenzará tras %s segundos.
+UI_20150317_000389	{s16}El juego comenzará tras %s segundos.
 UI_20150317_000390	{@st59}Acercar Zoom{/}
 UI_20150317_000391	{@st59}Alejar Zoom{/}
 UI_20150317_000392	{@st59}Mapa (M){/}
-UI_20150317_000393	{@st42b} Zona del mapa
+UI_20150317_000393	{@st42b} Zona del Mapa
 UI_20150317_000394	{@st44}Sintetizador de Items{/}
 UI_20150317_000395	{s16}{#FFcc66}{ol}Por favor selecciona el item que quieres crear{/}{/}
 UI_20150317_000396	{s16}{#FFcc66}{ol}Arrastra los ingredientes a los huecos
@@ -2131,10 +2131,10 @@ UI_20160224_002130	Rank %s
 UI_20160224_002131	Defeats : %s
 UI_20160224_002132	Damage : %s
 UI_20160224_002133	Increased maximum buff count
-UI_20160310_002134	{@st65}Damage: %s{/}
-UI_20160310_002135	{@st65}{s12}Achievement{/}
-UI_20160310_002136	{#16120e}Achievement{/}
+UI_20160310_002134	{@st65}Daño: %s{/}
+UI_20160310_002135	{@st65}{s12}Logro{/}
+UI_20160310_002136	{#16120e}Logro{/}
 UI_20160310_002137	Count: %s
-UI_20160310_002138	Damage: %s
-UI_20160310_002139	{@sti9}Kill Ranking
-UI_20160310_002140	{@sti9}Damage Ranking
+UI_20160310_002138	Daño: %s
+UI_20160310_002139	{@sti9}Ranking de Muertes
+UI_20160310_002140	{@sti9}Ranking de Daño
