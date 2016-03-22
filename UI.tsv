@@ -706,133 +706,133 @@ UI_20150317_000705	{@st41} Todo {/}
 UI_20150317_000706	{@st41} Grupo {/}
 UI_20150317_000707	{@st41} Monstruo {/}
 UI_20150317_000708	{@st41b}{#f0dcaa}Puntos de Status Restantes ▶ {@st46}%s
-UI_20150317_000709	{@st59b}Mi Información{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
+UI_20150317_000709	{@st59b}Mi Información{nl}{@st59s}- Status : Usa los puntos obtenidos subiendo de nivel para mejorar los 5 atributos de status. {nl}- Información : Esto es información sobre tu personaje basada en tu actual status y equipamiento. {nl}- Título : Los títulos puenden ser obtenidos completando logros. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
-UI_20150317_000711	{@st41b}Title{/}
-UI_20150317_000712	Show Class
-UI_20150317_000713	Show Character Name
-UI_20150317_000714	{@st59}Change Character Name{/}
-UI_20150317_000715	{@st41b}Apply
-UI_20150317_000716	{@st59}Apply{/}
-UI_20150317_000717	{@st41b}Cancel
-UI_20150317_000718	{@st59}Cancel{/}
+UI_20150317_000711	{@st41b}Título{/}
+UI_20150317_000712	Mostrar Clase
+UI_20150317_000713	Mostrar Nombre de Personje
+UI_20150317_000714	{@st59}Cambiar Nombre de Personaje{/}
+UI_20150317_000715	{@st41b}Aplicar
+UI_20150317_000716	{@st59}Aplicar{/}
+UI_20150317_000717	{@st41b}Cancelar
+UI_20150317_000718	{@st59}Cancelar{/}
 UI_20150317_000719	PC Name
-UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
-UI_20150317_000721	{@st41_yellow}Mercenary Skills
-UI_20150317_000722	{@st43}Attack Effects{/}
-UI_20150317_000723	{@st43}Defense Effects{/}
+UI_20150317_000720	{@st41_yellow}Nivel: {@st41}%s{/}
+UI_20150317_000721	{@st41_yellow}Habilidades de Mercenario
+UI_20150317_000722	{@st43}Efectos de Ataque{/}
+UI_20150317_000723	{@st43}Efectos de Defensa{/}
 UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Character Information (F1){/}
-UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Classes & Skills (F3){/}
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}
+UI_20150317_000726	{@st59}Información de Personaje (F1){/}
+UI_20150317_000727	{@st59}Inventario (F2){/}
+UI_20150317_000728	{@st59}Clases & Habilidades (F3){/}
+UI_20150317_000729	{@st59}Jornal de Aventura (F4){/}
 UI_20150317_000730	{@st59}Quests (F5){/}
-UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Friends (F7){/}
+UI_20150317_000731	{@st59}Grupo (F6){/}
+UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
-UI_20150317_000734	{@st59}Companion (F9) {/}
-UI_20150317_000735	{@st59}Help (F10) {/}
-UI_20150317_000736	{@st59}System Menu (Esc){/}
+UI_20150317_000734	{@st59}Acompañante (F9) {/}
+UI_20150317_000735	{@st59}Ayuda (F10) {/}
+UI_20150317_000736	{@st59}Menú de Sistema (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help (F1)
-UI_20150317_000739	Contents
-UI_20150317_000740	View Details
-UI_20150317_000741	{@st43}Game Settings{/}
-UI_20150317_000742	{@st43}Game{/}
-UI_20150317_000743	{@st41b}Show Gained EXP{/}
-UI_20150317_000744	{@st41b}Show Character Name{/}
-UI_20150317_000745	{@st41b}Show Team Name only{/}
-UI_20150317_000746	{@st41b}Show Quest Guide{/}
-UI_20150317_000747	{@st43}Resolution{/}
-UI_20150317_000748	{@st43}Graphics{/}
-UI_20150317_000749	{@st41b}Full Screen{/}
-UI_20150317_000750	{@st41b}Windowed Mode{/}
-UI_20150317_000751	{@st43}Sound{/}
-UI_20150317_000752	{@st41b}Sound Effects Volume (%s){/}
-UI_20150317_000753	{@st41b}BGM Volume (%s){/}
-UI_20150317_000754	{@st41b}Volume (%s){/}
-UI_20150317_000755	{@st43}{b}Select Language{/}
-UI_20150317_000756	{@st59}Close{/}
-UI_20150317_000757	{@st41b}Min.requirement Mode {/}
-UI_20150317_000758	{@st41b}View{/}
-UI_20150317_000759	{@st59}Credits{/}
-UI_20150317_000760	Target buff window
-UI_20150317_000761	{@st46}IMC's picture
-UI_20150317_000762	{@st46}%s's picture
+UI_20150317_000738	Ayuda (F1)
+UI_20150317_000739	Contenidos
+UI_20150317_000740	Ver Detalles
+UI_20150317_000741	{@st43}Ajustes del Juego{/}
+UI_20150317_000742	{@st43}Juego{/}
+UI_20150317_000743	{@st41b}Mostrar EXP Ganada{/}
+UI_20150317_000744	{@st41b}Mostrar Nombre de Personaje{/}
+UI_20150317_000745	{@st41b}Mostrar solo Títulos de Equipo{/}
+UI_20150317_000746	{@st41b}Mostrar Guía de Quest{/}
+UI_20150317_000747	{@st43}Resolución{/}
+UI_20150317_000748	{@st43}Graficos{/}
+UI_20150317_000749	{@st41b}Pantalla Completa{/}
+UI_20150317_000750	{@st41b}Modo Ventana{/}
+UI_20150317_000751	{@st43}Sonido{/}
+UI_20150317_000752	{@st41b}Volumen Efectos de Sonido (%s){/}
+UI_20150317_000753	{@st41b}BGM Volumen (%s){/}
+UI_20150317_000754	{@st41b}Volumen (%s){/}
+UI_20150317_000755	{@st43}{b}Seleccionar idioma{/}
+UI_20150317_000756	{@st59}Cerrar{/}
+UI_20150317_000757	{@st41b}Modo Req. mínimos {/}
+UI_20150317_000758	{@st41b}Vista{/}
+UI_20150317_000759	{@st59}Creditos{/}
+UI_20150317_000760	Ventana Buffs objetivo
+UI_20150317_000761	{@st46}IMC imagenes
+UI_20150317_000762	{@st46}%s's imagen
 UI_20150317_000763	{@st46}Like
 UI_20150317_000764	{@st46}Report
 UI_20150317_000765	{@st46}Use preservatives
-UI_20150317_000766	{@st46}Remove Picture
+UI_20150317_000766	{@st46}Eliminar imagen
 UI_20150317_000767	Snow Hallucination
 UI_20150317_000768	Bouquet
-UI_20150317_000769	{@st41} Gifts
-UI_20150317_000770	Please enter a quantity
-UI_20150317_000771	{@st53b}%s Wins %s Losses
-UI_20150317_000772	{@st42}Today's Schedule
-UI_20150317_000773	{@st53}Until Start :
-UI_20150317_000774	{@st53b}Gifts received : ×%s
-UI_20150317_000775	{@st43b}Send gift to %s{/}
-UI_20150317_000776	{@st55_a}Next game
-UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift
-UI_20150317_000778	Center camera to my character
-UI_20150317_000779	{@st55_a}Congratulations!
-UI_20150317_000780	{@st42}Switch Camera
-UI_20150317_000781	{@st44}Adventure Journal{/}
-UI_20150317_000782	{@st59}Change View Settings{/}
-UI_20150317_000783	{@st41}Statistics {/}
-UI_20150317_000784	{@st41}Crafting {/}
-UI_20150317_000785	{@st41}Hunt {/}
-UI_20150317_000786	{@st41}Help {/}
-UI_20150317_000787	{@st44}Wiki Page{/}
-UI_20150317_000788	{@st42}Information{/}
-UI_20150317_000789	{@st42}Details{/}
-UI_20150317_000790	{@st42}Combat{/}
-UI_20150317_000791	{@st42}Acquire{/}
-UI_20150317_000792	{@st59}Close Page{/}
-UI_20150317_000793	{@st43}Battlefield
-UI_20150317_000794	{@st59}Close Battlefield.
-UI_20150317_000795	(Bronze 3)
-UI_20150317_000796	{@sti8}Points acquirable today : {nl}%s{/}
-UI_20150317_000797	{@st41}Point Shop
+UI_20150317_000769	{@st41} Regalos
+UI_20150317_000770	Por favor ingresa una cantidad
+UI_20150317_000771	{@st53b}%s Ganadas %s Perdidas
+UI_20150317_000772	{@st42}Programación Diaria
+UI_20150317_000773	{@st53}Hasta Comenzar :
+UI_20150317_000774	{@st53b}Regalos recibidos : ×%s
+UI_20150317_000775	{@st43b}Enviar regalo a %s{/}
+UI_20150317_000776	{@st55_a}Siguiente Juego
+UI_20150317_000777	{@st53}- Clicka en el nombre para espectar{nl}- Botón derecho para enviar un regalo
+UI_20150317_000778	Centrar cámara a mi personaje
+UI_20150317_000779	{@st55_a}¡Enhorabuena!
+UI_20150317_000780	{@st42}Cambiar Cámara
+UI_20150317_000781	{@st44}Jornal de Aventura{/}
+UI_20150317_000782	{@st59}Cambiar ajustes de vista{/}
+UI_20150317_000783	{@st41}Estadísticas {/}
+UI_20150317_000784	{@st41}Fabricación {/}
+UI_20150317_000785	{@st41}Caza {/}
+UI_20150317_000786	{@st41}Ayuda {/}
+UI_20150317_000787	{@st44}Página Wiki{/}
+UI_20150317_000788	{@st42}Información{/}
+UI_20150317_000789	{@st42}Detalles{/}
+UI_20150317_000790	{@st42}Combate{/}
+UI_20150317_000791	{@st42}Adquirir{/}
+UI_20150317_000792	{@st59}Cerrar Página{/}
+UI_20150317_000793	{@st43}Campo de Batalla
+UI_20150317_000794	{@st59}Cerrar Campo de Batalla.
+UI_20150317_000795	(Bronce 3)
+UI_20150317_000796	{@sti8}Puntos adquiribles hoy : {nl}%s{/}
+UI_20150317_000797	{@st41}Tienda de Puntos
 UI_20150317_000798	{@st41}Ranking
-UI_20150317_000799	{@st42}Battlefield schedule
-UI_20150317_000800	{@st42}Recent Records
-UI_20150317_000801	{@st41}Receive EXP
-UI_20150317_000802	{@st41}PvP Page
-UI_20150317_000803	{@st41}Search
-UI_20150317_000804	{@st43}Battlefield Rankings
-UI_20150317_000805	{@st59}Close Battlefield rankings
-UI_20150317_000806	{@st56}Skill Name{/}
-UI_20150317_000807	{@st41}Check coordinates{/}
-UI_20150317_000808	{@st41}Find{/}
+UI_20150317_000799	{@st42}Horario de Campo de Batalla
+UI_20150317_000800	{@st42}Records Recientes
+UI_20150317_000801	{@st41}Recibir EXP
+UI_20150317_000802	{@st41}Página PvP
+UI_20150317_000803	{@st41}Buscar
+UI_20150317_000804	{@st43}Rankings Campo de Batalla
+UI_20150317_000805	{@st59}Cerrar Rankings Campo de Batalla
+UI_20150317_000806	{@st56}Nombre de Habilidad{/}
+UI_20150317_000807	{@st41}Comprobar coordenadas{/}
+UI_20150317_000808	{@st41}Encontrar{/}
 UI_20150317_000809	{@st42b}Manage monster regen{/}
-UI_20150317_000810	{@st42b}Monster List{/}
-UI_20150317_000811	{@st42b}Create UI{/}
-UI_20150317_000812	{@st42b}Map Fog{/}
-UI_20150317_000813	{@st42b}Create Map{/}
-UI_20150317_000814	{@st42b}Create Minimap{/}
-UI_20150317_000815	{@st42b}Dialog {/}
-UI_20150317_000816	{@st42b}Change Quest Rewards{/}
+UI_20150317_000810	{@st42b}Lista de Monstruos{/}
+UI_20150317_000811	{@st42b}Crear UI{/}
+UI_20150317_000812	{@st42b}Niebla de Mapa{/}
+UI_20150317_000813	{@st42b}Crear Mapa{/}
+UI_20150317_000814	{@st42b}Crear Minimapa{/}
+UI_20150317_000815	{@st42b}Dialogo {/}
+UI_20150317_000816	{@st42b}Cambiar Recompensa de Quest{/}
 UI_20150317_000817	{@st42b}Group regen{/}
-UI_20150317_000818	{@st42b}Set map location{/}
-UI_20150317_000819	{@st42b}Skills map{/}
-UI_20150317_000820	{@st42b}List of events{/}
-UI_20150317_000821	{@st42b}Check coordinates{/}
-UI_20150317_000822	{@st42b} Check XAC, texture path{/}
+UI_20150317_000818	{@st42b}Poner localización en mapa{/}
+UI_20150317_000819	{@st42b}Mapa de Habilidades{/}
+UI_20150317_000820	{@st42b}Lista de Eventos{/}
+UI_20150317_000821	{@st42b}Comprobar Coordenadas{/}
+UI_20150317_000822	{@st42b} Comprobar XAC, texture path{/}
 UI_20150317_000823	{@st42b}Performance ON/OFF{/}
-UI_20150317_000824	Dialog list
-UI_20150317_000825	Search
-UI_20150317_000826	{@st41}Preview{/}
-UI_20150317_000827	{@st41}Off{/}
-UI_20150317_000828	{@st41}Remove{/}
-UI_20150317_000829	{@st41}Save all{/}
-UI_20150317_000830	{@st41}Apply picture{/}
-UI_20150317_000831	{#FFFFFF}{ds}Select Event
-UI_20150317_000832	{#FFFFFF}{ds}Edit Event
-UI_20150317_000833	{ol}List
-UI_20150317_000834	The name of the group to save
-UI_20150317_000835	{@st42}Create New{/}
+UI_20150317_000824	Lista de Dialogo
+UI_20150317_000825	Buscar
+UI_20150317_000826	{@st41}Previsualización{/}
+UI_20150317_000827	{@st41}Apagar{/}
+UI_20150317_000828	{@st41}Eliminar{/}
+UI_20150317_000829	{@st41}Guardar Todo{/}
+UI_20150317_000830	{@st41}Aplicar imagen{/}
+UI_20150317_000831	{#FFFFFF}{ds}Seleccionar Evento
+UI_20150317_000832	{#FFFFFF}{ds}Editar Evento
+UI_20150317_000833	{ol}Lista
+UI_20150317_000834	El nombre del grupo a guardar
+UI_20150317_000835	{@st42}Crear Nuevo{/}
 UI_20150317_000836	{@st41}Group regen{/}
 UI_20150317_000837	{@st59}Enter monster name to search{/}
 UI_20150317_000838	{@st59}Enter group name to save{/}
