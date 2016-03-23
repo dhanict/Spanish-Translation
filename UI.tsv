@@ -12,7 +12,7 @@ UI_20150317_000011	{@st41}¿Estas serguro de que quieres fabricar este tipo de f
 UI_20150317_000012	{@st41b}Una vez{/}
 UI_20150317_000013	{@st41b}Todo{/}
 UI_20150317_000014	{@st41b}Pausa{/}
-UI_20150317_000015	{@st43}Jornal de Aventura{/}
+UI_20150317_000015	{@st43}Diario de Aventura{/}
 UI_20150317_000016	{@st43}Casa de Subasta{/}
 UI_20150317_000017	{@st59}Cerrar{/}
 UI_20150317_000018	{@st41b}Items vendidos : ×%s, Items no vendidos : ×%s{/}
@@ -299,7 +299,7 @@ UI_20150317_000298	99 minutos 99 segundos
 UI_20150317_000299	38000 puntos
 UI_20150317_000300	Poción de Velocidad Mejorada
 UI_20150317_000301	{@st41}Confirmar{/}
-UI_20150317_000302	{@st59b} Jornal de Aventura {nl}{@st59s}- Tu progreso será guardado en el jornal de aventura. {nl} - Puedes progresar en tu Índice de aventura a traves de acciones tales como: obeteniendo items, cazando monstruos, fabricando y explorando mapa.{nl}    Índice de aventura : El total de todos tus índices. {nl}    Crecimiento : 5 puntos por nivel de personaje y nivel de clase {nl}    Items : Equipmiento : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Monstruos : 10 puntos por monstruo (50 puntos por Boss) {nl}    Mapas : 1 punto por 10% explorado {nl}    Quests : 1 punto por quest {nl}    Logros : Varía según el logro {nl}    Fabricación : 10 puntos {nl}    Colección : 5 puntos por una deck y 45 puntos cuando se ha completado {nl} - Puedes recibir una recompensa especial de un NPC en una ciudad dependiendo de tu Índice de aventura. {/}
+UI_20150317_000302	{@st59b} Diario de Aventura {nl}{@st59s}- Tu progreso será guardado en el diario de aventura. {nl} - Puedes progresar en tu Índice de aventura a traves de acciones tales como: obeteniendo items, cazando monstruos, fabricando y explorando mapa.{nl}    Índice de aventura : El total de todos tus índices. {nl}    Crecimiento : 5 puntos por nivel de personaje y nivel de clase {nl}    Items : Equipmiento : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Monstruos : 10 puntos por monstruo (50 puntos por Boss) {nl}    Mapas : 1 punto por 10% explorado {nl}    Quests : 1 punto por quest {nl}    Logros : Varía según el logro {nl}    Fabricación : 10 puntos {nl}    Colección : 5 puntos por una deck y 45 puntos cuando se ha completado {nl} - Puedes recibir una recompensa especial de un NPC en una ciudad dependiendo de tu Índice de aventura. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Logros{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Puntos{/}
 UI_20150317_000305	{@st42b} Promedio / %s Puntos {/}
@@ -309,7 +309,7 @@ UI_20150317_000308	%s Puntos
 UI_20150317_000309	Profesión
 UI_20150317_000310	Equipo
 UI_20150317_000311	{@st59}Cerrar{/}
-UI_20150317_000312	{@st43}Ranking de Jornal de Aventura{/}
+UI_20150317_000312	{@st43}Ranking de Diario de Aventura{/}
 UI_20150317_000313	{@st43}{s22}Rango   
 UI_20150317_000314	{@st43}{s22}Nombre
 UI_20150317_000315	{@st43}{s22}Puntuacióm
@@ -678,7 +678,7 @@ UI_20150317_000677	{@st41}%s/min (%s en mano){/}
 UI_20150317_000678	Keyboard Warrior
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Nivel{/}
 UI_20150317_000680	{@st41_yellow}Tiempo Empleado
-UI_20150317_000681	{@st43}Graffiti{/}
+UI_20150317_000681	{@st43}Grafiti{/}
 UI_20150317_000682	{@st59}Cerrar{/}
 UI_20150317_000683	{@st41b}Consejo : Dibujar una imagen en el cuadro de abajo{/}
 UI_20150317_000684	{@st41b}Colores{/}
@@ -726,7 +726,7 @@ UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Información de Personaje (F1){/}
 UI_20150317_000727	{@st59}Inventario (F2){/}
 UI_20150317_000728	{@st59}Clases & Habilidades (F3){/}
-UI_20150317_000729	{@st59}Jornal de Aventura (F4){/}
+UI_20150317_000729	{@st59}Diario de Aventura (F4){/}
 UI_20150317_000730	{@st59}Quests (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
@@ -745,7 +745,7 @@ UI_20150317_000744	{@st41b}Mostrar Nombre de Personaje{/}
 UI_20150317_000745	{@st41b}Mostrar solo Títulos de Equipo{/}
 UI_20150317_000746	{@st41b}Mostrar Guía de Quest{/}
 UI_20150317_000747	{@st43}Resolución{/}
-UI_20150317_000748	{@st43}Graficos{/}
+UI_20150317_000748	{@st43}Gráficos{/}
 UI_20150317_000749	{@st41b}Pantalla Completa{/}
 UI_20150317_000750	{@st41b}Modo Ventana{/}
 UI_20150317_000751	{@st43}Sonido{/}
@@ -756,7 +756,7 @@ UI_20150317_000755	{@st43}{b}Seleccionar idioma{/}
 UI_20150317_000756	{@st59}Cerrar{/}
 UI_20150317_000757	{@st41b}Modo Req. mínimos {/}
 UI_20150317_000758	{@st41b}Vista{/}
-UI_20150317_000759	{@st59}Creditos{/}
+UI_20150317_000759	{@st59}Créditos{/}
 UI_20150317_000760	Ventana Buffs objetivo
 UI_20150317_000761	{@st46}IMC imagenes
 UI_20150317_000762	{@st46}%s's imagen
@@ -778,7 +778,7 @@ UI_20150317_000777	{@st53}- Clicka en el nombre para espectar{nl}- Botón derech
 UI_20150317_000778	Centrar cámara a mi personaje
 UI_20150317_000779	{@st55_a}¡Enhorabuena!
 UI_20150317_000780	{@st42}Cambiar Cámara
-UI_20150317_000781	{@st44}Jornal de Aventura{/}
+UI_20150317_000781	{@st44}Diario de Aventura{/}
 UI_20150317_000782	{@st59}Cambiar ajustes de vista{/}
 UI_20150317_000783	{@st41}Estadísticas {/}
 UI_20150317_000784	{@st41}Fabricación {/}
@@ -812,7 +812,7 @@ UI_20150317_000811	{@st42b}Crear UI{/}
 UI_20150317_000812	{@st42b}Niebla de Mapa{/}
 UI_20150317_000813	{@st42b}Crear Mapa{/}
 UI_20150317_000814	{@st42b}Crear Minimapa{/}
-UI_20150317_000815	{@st42b}Dialogo {/}
+UI_20150317_000815	{@st42b}Diálogo {/}
 UI_20150317_000816	{@st42b}Cambiar Recompensa de Quest{/}
 UI_20150317_000817	{@st42b}Group regen{/}
 UI_20150317_000818	{@st42b}Poner localización en mapa{/}
@@ -821,7 +821,7 @@ UI_20150317_000820	{@st42b}Lista de Eventos{/}
 UI_20150317_000821	{@st42b}Comprobar Coordenadas{/}
 UI_20150317_000822	{@st42b} Comprobar XAC, texture path{/}
 UI_20150317_000823	{@st42b}Performance ON/OFF{/}
-UI_20150317_000824	Lista de Dialogo
+UI_20150317_000824	Lista de Diálogo
 UI_20150317_000825	Buscar
 UI_20150317_000826	{@st41}Previsualización{/}
 UI_20150317_000827	{@st41}Apagar{/}
