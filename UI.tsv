@@ -1948,193 +1948,193 @@ UI_20151224_001947	Vida
 UI_20151224_001948	{@st43}Buzón
 UI_20151224_001949	{@st66b}Todo
 UI_20151224_001950	{@st66b}No leído
-UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is completed{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest name{/}
-UI_20151224_001952	{@st66b}  In Progress  {/}
-UI_20151224_001953	{@st66b}  Abandoned  {/}
-UI_20151224_001954	{@st66b}Resurrect with the Soul Crystal{/}
-UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to sell/buy multiple items{nl} - Right-click twice to sell all the items{/}
-UI_20151224_001956	Crafting Number
-UI_20151224_001957	{@st42}%s Benefits{/}
-UI_20151224_001958	Are you sure you want to use this %s?{/}
-UI_20151224_001959	Used items will be disappeared from your inventory{nl}Resets your all skill points.
-UI_20151224_001960	{@st41}Use
-UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
-UI_20151224_001962	{@st66b}Information{/}
-UI_20151224_001963	{@st66b}Achievements{/}
-UI_20151224_001964	{@st66b}Character Settings{/}
-UI_20151224_001965	{@st59}Collection (F11){/}
-UI_20151224_001966	{@st66b}Key Settings
-UI_20151224_001967	{@st42}Duration : %s{/}
-UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
-UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}
-UI_20151224_001970	The duration of your Token can be seen in Character Settings.
-UI_20151224_001971	{@st59}Close{/}
-UI_20151224_001972	{@st43}{s18}Preview & Purchase
-UI_20151224_001973	Preview
-UI_20151224_001974	Equippable Items TP
-UI_20151224_001975	{@st49}Buy Equipped Item{/}
-UI_20151224_001976	Shopping Bag
-UI_20151224_001977	Available TP
-UI_20151224_001978	Shopping Bag TP
-UI_20151224_001979	Remaining TP
-UI_20151224_001980	{@st49}Confirm Purchase{/}
-UI_20151224_001981	{@st66b}Expand Storage
-UI_20151224_001982	{@st59}Expand Storage{/}
-UI_20151224_001983	{@st42b}Area{/}
-UI_20151224_001984	{@st59}Open Map{/}
-UI_20151224_001985	Number
-UI_20151224_001986	{@st43}Change Team Name{/}
-UI_20151224_001987	{@st59}Change Team Name{/}
-UI_20151224_001988	{@st59}Cancel{/}
-UI_20151224_001989	{@st66b18}Change Team Name{/}
-UI_20151224_001990	{@st66b18}Change Lodge{/}
-UI_20151224_001991	{@st66}A Team Name change costs 150 TP{/}
-UI_20151224_001992	{@st59}Enter a name{/}
+UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - Cuando estés en una nueva quest, esta será añadida a la ventana de quest.{nl} - Una quest principal es mostrada en color amarillo, mientras que una quest secundaria es mostrada en azul.{nl} - La flecha a los pies de tu personaje marca la localización de la quest{nl} - Un icono de 'Volver' es mostradp en la ventana de quest cuando una quest es completada{nl}  (Telepórtate al NPC Quest usando la tecla Retroceso o clickando con el ratón){nl} - Añade o elimina una quest en la ventana de quest marcando o desmarcando la casilla frente al nombre de la quest{/}
+UI_20151224_001952	{@st66b}  En Progreso  {/}
+UI_20151224_001953	{@st66b}  Abandonada  {/}
+UI_20151224_001954	{@st66b}Resucita con un Soul Crystal{/}
+UI_20151224_001955	{@st59b}Tienda{nl}{@st59s} - Usa Shift + Click derecho e ingresa una cantidad para vender/comprar múltiples items{nl} - Click derecho dos veces para vender todos lo items{/}
+UI_20151224_001956	Fabricar Número
+UI_20151224_001957	{@st42}%s Beneficios{/}
+UI_20151224_001958	¿Estás seguro que quieres usar esto %s?{/}
+UI_20151224_001959	Los items usados desaparecen de tu inventario{nl}Resetear todos tus puntos de habilidad.
+UI_20151224_001960	{@st41}Usar
+UI_20151224_001961	{@st59b}Clases{nl}{@st59s}- Puedes aprender nuevas habilidades mediante el crecimiento del Círculo de tu clase. {nl} - Puedes elegir entre 3 clases disponibles para avanzar a tu 1º y 2º ascenso. {nl} - Puedes ascender la misma clase hasta 3 veces. {nl} - No puedes volver a cambiar a tu clase anterior una vez que has ascendido a otra clase. {nl} - Has de comsumir todos tus Puntos de Habilidad para ser capaz de ascender. {nl} - Puedes elegir la misma clase.{nl}{@st59b}Habilidades{nl}{@st59s} - Puedes incrementar el rango de cada skill a 5.{nl} - Los atributos aprendidos por Maestros pueden verse bajo tus habilidades. {/}
+UI_20151224_001962	{@st66b}Información{/}
+UI_20151224_001963	{@st66b}Logros{/}
+UI_20151224_001964	{@st66b}Ajustes de Personaje{/}
+UI_20151224_001965	{@st59}Colección (F11){/}
+UI_20151224_001966	{@st66b}Ajustes de Teclas
+UI_20151224_001967	{@st42}Duración : %s{/}
+UI_20151224_001968	Aplicar a esto %s por %s{nl} y eliminar %s del inventario
+UI_20151224_001969	Solor aplicar a %s durante %s {nl} y eliminar %s del inventario.{/}
+UI_20151224_001970	La duración de tu Token puede verse en los Ajustes de Personaje.
+UI_20151224_001971	{@st59}Cerrar{/}
+UI_20151224_001972	{@st43}{s18}Vista previa y Compra
+UI_20151224_001973	Vista previa
+UI_20151224_001974	Items Equipables de TP
+UI_20151224_001975	{@st49}Comprar Item Equipado{/}
+UI_20151224_001976	Bolsa de la Compra
+UI_20151224_001977	TP Disponible
+UI_20151224_001978	Bolsa de la Compra deTP
+UI_20151224_001979	TP Restante
+UI_20151224_001980	{@st49}Confirmar Compra{/}
+UI_20151224_001981	{@st66b}Expandir Almacén
+UI_20151224_001982	{@st59}Expandir Almacén{/}
+UI_20151224_001983	{@st42b}Zona{/}
+UI_20151224_001984	{@st59}Abrir Mapa{/}
+UI_20151224_001985	Número
+UI_20151224_001986	{@st43}Cambiar Nombre de Equipo{/}
+UI_20151224_001987	{@st59}Cambiar Nombre de Equipo{/}
+UI_20151224_001988	{@st59}Cancelar{/}
+UI_20151224_001989	{@st66b18}Cambiar Nombre de Equipo{/}
+UI_20151224_001990	{@st66b18}Cambiar Alojamiento{/}
+UI_20151224_001991	{@st66}Un cambio de Nombre de Equipo cuesta 150 TP{/}
+UI_20151224_001992	{@st59}Ingresa un Nombre{/}
 UI_20151224_001993	{@st41b}Free TP{/}
-UI_20151224_001994	{@st59}Close{/}
-UI_20151224_001995	{@st43}Lodge Decoration{/}
-UI_20151224_001996	{@st41b}Lodge Visitation{/}
-UI_20151224_001997	{@st59}Visit the lodges of other players.{/}
-UI_20151224_001998	{@st41b}Message Box{/}
-UI_20151224_001999	{@st59}Open the Message Box{/}
-UI_20151224_002000	{@st42}Character{/}
+UI_20151224_001994	{@st59}Cerrar{/}
+UI_20151224_001995	{@st43}Decoración del Alojamiento{/}
+UI_20151224_001996	{@st41b}Visitas del Alojamiento{/}
+UI_20151224_001997	{@st59}Visitar alojamientos de otros jugadores.{/}
+UI_20151224_001998	{@st41b}Buzón{/}
+UI_20151224_001999	{@st59}Abrir Buzón{/}
+UI_20151224_002000	{@st42}Personaje{/}
 UI_20151224_002001	{@st42}Free TP{/}
-UI_20151224_002002	{@st42}Event TP{/}
-UI_20151224_002003	{@st41b}Credits{/}
-UI_20151224_002004	{@st59}Credits{/}
+UI_20151224_002002	{@st42}Evento TP{/}
+UI_20151224_002003	{@st41b}Créditos{/}
+UI_20151224_002004	{@st59}Créditos{/}
 UI_20151224_002005	{@st42}Producer and Director{/}{nl}{@st41b}{s22}Seyong Kim{nl} {nl}{@st42}Art Director{nl}{@st41b}{s22}Jeongwon An (MAGGI){nl} {nl}{@st42}Art Designer{nl}{@st41b}{s22}Mina Kim{nl}Heajin Sung{nl}Minkyong Kang{nl}Junhyuck Park{nl}Jinyoung Bae{nl}Hyosun Shin{nl}Sehee Park{nl} {nl}{@st42}Senior Programmer{nl}{@st41b}{s22}Sanghyup Shin{nl} {nl}{@st42}Research Programmer{nl}{@st41b}{s22}Jaehoon Jung{nl} {nl}{@st42}Programmer{nl}{@st41b}{s22}Young Choi{nl}Seongbae Han{nl}Bora Kim{nl}YongGyun Lee{nl}Minkyu Kim{/}
 UI_20151224_002006	{@st42}Battle System Designer{nl}{@st41b}{s22}Girak Choi{nl}{nl}P.J. Kim{nl} {nl}{@st42}Level Designer{nl}{@st41b}{s22}Hongseok Ra{nl} {nl}{@st42}Screenplay Director{nl}{@st41b}{s22}Seungjo Lee{nl} {nl}{@st42}Lead Animator{nl}{@st41b}{s22}Sujin Lee{nl} {nl}{@st42}Animator{nl}{@st41b}{s22}Seunghyeon Myeong{nl}Minwoo Park{nl}Sookyung Kim{nl}Dongjin Kim{nl}Mijin Kim{nl} {nl}{@st42}Effects / SFX{nl}{@st41b}{s22}Hyejin Jung{nl} {nl}{@st42}Character Designer{nl}{@st41b}{s22}Jiae Park{nl}Junwon Hwang{nl}Subum Lee{nl}Dami Kim{/}
 UI_20151224_002007	{@st42}Background Designer{nl}{@st41b}{s22}Roch{nl}Rendering Studio Corp.{nl}Lisa Lee{nl}Dongho Kang{nl}JIN{nl}Yeonew{nl}Moje{nl}Hyunjung Lee{nl} {nl}{@st42}Content Design Manager{nl}{@st41b}{s22}Choungsu Lee{nl} {nl}{@st42}Content Designer{nl}{@st41b}{s22}Ujeong Son{nl}Wonjong Lee{nl}Orange Smith{nl}Jihyun Moon{nl}Jeongsu Kim{nl}Donghun Choe{nl}Seungyoung Jin{nl}Ginyi Lee{nl}Jongwook Moon{nl} {nl}{@st42}Scenario Writer{nl}{@st41b}{s22}Seion Kim{nl} {nl}{@st42}Conworlding Supervisor{nl}{@st41b}{s22}Martynas Siauciunas Kacinskas{nl}Kristina Kudriasova{/}
 UI_20151224_002008	{@st42}Sound Director{nl}{@st41b}{s22}sevin{nl} {nl}{@st42}General Sound Director{nl}{@st41b}{s22}MIGHT{nl} {nl}{@st42}Sound Designer{nl}{@st41b}{s22}VIKCO{nl} {nl}{@st42}UX/UI Manager{nl}{@st41b}{s22}Gilyong Lee{nl} {nl}{@st42}UI Designer{nl}{@st41b}{s22}Jooyeon Seo{nl} {nl}{@st42}DBA{nl}{@st41b}{s22}Manju Han{nl} {nl}{@st42}Quality Assurance Manager{nl}{@st41b}{s22}Yonghyun Kim{nl} {nl}{@st42}Quality Assurance{nl}{@st41b}{s22}Yonghyun Ahn{nl}Eunyoung Park{nl}Mancheol No{nl}Eunyeong Lee{nl}Yebin Lheem{nl}Jaesoon Jang{nl}Jisu Park{/}
 UI_20151224_002009	{@st42}Global Publishing Director{nl}{@st41b}{s22}Moojin Shin{nl} {nl}{@st42}Localization{nl}{@st41b}{s22}Jay{nl}Shawn{nl}Jenny{nl}John{nl} {nl}{@st42}Technical Support{nl}{@st41b}{s22}Kangwoo Kim{nl}Wanjae Lee{nl}Sunyong Lee{nl}Sungkie Park{/}
-UI_20151224_002010	Select Starting City
+UI_20151224_002010	Seleccina una Ciudad de Comienzo
 UI_20151224_002011	{@st44}Klaipeda
-UI_20151224_002012	{@st59s}A mining town that has progressed thanks to the Crystal Mine.{nl}This city received minor damage during Medzio Diena.{/}
+UI_20151224_002012	{@st59s}Una ciudad minera que ha progresado gracias a la Crystal Mine.{nl}Esta ciudad recibió menor daño durante Medzio Diena.{/}
 UI_20151224_002013	{@st44}Orsha
-UI_20151224_002014	{@st59s}We tried to protect ourselves by relying on the giant castle during Medzio Diena.{nl}But the horrifying disaster even swallowed the castle.{/}
-UI_20151224_002015	{@st59}Return to my Lodge.{/}
-UI_20151224_002016	{@st43}{s24}Lodge Name{/}
-UI_20151224_002017	{@st59}Lodge Name{/}
-UI_20151224_002018	{@st59}Lodge Settings{/}
-UI_20151224_002019	{@st42}Reset Count
-UI_20151224_002020	{@st41}Message
-UI_20151224_002021	{@st59}Show Quest Dialogue{/}
-UI_20151224_002022	{@st59}Abandon Quest{/}
-UI_20151224_002023	{@st49}Preview{/}
-UI_20151224_002024	{@st49}Add{/}
-UI_20151224_002025	obtained %s by %s
-UI_20151224_002026	Amount Left
-UI_20151224_002027	Amount Left : %s{/}
-UI_20151224_002028	{@st41}Buy{/}
-UI_20151224_002029	{@st45tw2}Points{/}
-UI_20151224_002030	Ascending by Name
-UI_20151224_002031	Descending by Name
-UI_20151224_002032	By Date
-UI_20151224_002033	{@st42}Token Benefits{/}
-UI_20151224_002034	{@st66b}Change Signboard Title
-UI_20151224_002035	{@st41b}Eat
-UI_20151224_002036	{@st41b}Number
+UI_20151224_002014	{@st59s}Tratamos de protegernos confiando en el castillo gigante durante Medzio Diena.{nl}Pero el horrible desastre incluso engulló el castillo.{/}
+UI_20151224_002015	{@st59}Volver a Mi Alojamiento.{/}
+UI_20151224_002016	{@st43}{s24}Nombre del Alojamiento{/}
+UI_20151224_002017	{@st59}Nombre del Alojamiento{/}
+UI_20151224_002018	{@st59}Ajustes del Alojamiento{/}
+UI_20151224_002019	{@st42}Resetear Contador
+UI_20151224_002020	{@st41}Mensaje
+UI_20151224_002021	{@st59}Mostrar Diálogo de Quest{/}
+UI_20151224_002022	{@st59}Abandonar Quest{/}
+UI_20151224_002023	{@st49}Vista Previa{/}
+UI_20151224_002024	{@st49}Añadir{/}
+UI_20151224_002025	obtenido %s por %s
+UI_20151224_002026	Cantidad Restante
+UI_20151224_002027	Cantidad Restante : %s{/}
+UI_20151224_002028	{@st41}Comprar{/}
+UI_20151224_002029	{@st45tw2}Puntos{/}
+UI_20151224_002030	Ascendente por Nombre
+UI_20151224_002031	Descendente por Nombre
+UI_20151224_002032	Por Fecha
+UI_20151224_002033	{@st42}Ventajas de Token{/}
+UI_20151224_002034	{@st66b}Cambiar Título de Letrero
+UI_20151224_002035	{@st41b}Combre
+UI_20151224_002036	{@st41b}Númerar
 UI_20151224_002037	Cash Garden %s{/}
-UI_20151224_002038	Show Online
-UI_20151224_002039	Hangout Entry
-UI_20151224_002040	Allow guild members only
-UI_20151224_002041	War Records
-UI_20151224_002042	Guild Wars List
-UI_20151224_002043	Remaining Time
-UI_20151224_002044	Available Tower
-UI_20151224_002045	Upgrade Guild
-UI_20151224_002046	Contribution Rank
-UI_20151224_002047	Guild Skills & Information
-UI_20151224_002048	{@st42}%s Benefits{/}
-UI_20151224_002049	Benefits
-UI_20160224_002050	Team Storage
-UI_20160224_002051	{@st59}Close{/}
-UI_20160224_002052	You can store tradable items but at the cost of 1 Potential.{nl}Withdrawing from Team Storage will deduct your remaining trades by 1 regardless of the number of items you take out.
-UI_20160224_002053	Retrieve Item
-UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Name (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
-UI_20160224_002055	{@59}Close{/}
-UI_20160224_002056	Challenge
-UI_20160224_002057	Please choose to proceed
-UI_20160224_002058	{@st63_yellow}Abandoned :{/}
-UI_20160224_002059	Receive a reward and leave.
-UI_20160224_002060	{@st63_yellow}Challenge :{/}
-UI_20160224_002061	Moving to the next floor
-UI_20160224_002062	{@st43}Relic Collector{/}
-UI_20160224_002063	{@st59}Close{/}
-UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
+UI_20151224_002038	Mostrar Online
+UI_20151224_002039	Colgar Entrada
+UI_20151224_002040	Solo miembros de guild permitidos
+UI_20151224_002041	Records de Guerra
+UI_20151224_002042	Lista de Guerra de Guilds
+UI_20151224_002043	Tiempo Restante
+UI_20151224_002044	Torre Disponible
+UI_20151224_002045	Mejorar Guild
+UI_20151224_002046	Rango de Contribución
+UI_20151224_002047	Habilidades de Guild e Información
+UI_20151224_002048	{@st42}%s Beneficios{/}
+UI_20151224_002049	Beneficios
+UI_20160224_002050	Almacén de Equipo
+UI_20160224_002051	{@st59}Cerrar{/}
+UI_20160224_002052	Puedes almacenar items  al coste de 1 Potencial.{nl}Withdrawing from Team Storage will deduct your remaining trades by 1 regardless of the number of items you take out.
+UI_20160224_002053	Recuperar Item
+UI_20160224_002054	General : /s (chat){nl}Gritar : /y (chat){nl}Grupo : /p (chat){nl}Susurro : /w Nombre de Equipo (chat){nl}Responder : /r (chat){nl} {nl}Se puede cambiar con la Tecla Tabulador
+UI_20160224_002055	{@59}Cerrar{/}
+UI_20160224_002056	Desafío
+UI_20160224_002057	Por favor elige para proceder
+UI_20160224_002058	{@st63_yellow}Abandonado :{/}
+UI_20160224_002059	Recibe la recompensa y sal.
+UI_20160224_002060	{@st63_yellow}Desafío :{/}
+UI_20160224_002061	Múevete a la siguiente planta
+UI_20160224_002062	{@st43}Colector de Reliquias{/}
+UI_20160224_002063	{@st59}Cerrar{/}
+UI_20160224_002064	{@st59b}Intercambiar Items{nl}{@st59s} - Puede intercambiar items obtenidos en la Earth Tower{nl} - El intercambio comienza tras insertar los ingredientes en el hueco.{nl}{/}
 UI_20160224_002065	F
-UI_20160224_002066	{@st59}Close{/}
-UI_20160224_002067	{@st59}Place an accessory{/}
-UI_20160224_002068	{@st66b}Opening one more time costs silver.{/}
-UI_20160224_002069	{@st66b}(Up to two times for users with Token benefits){/}
-UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
-UI_20160224_002071	{@st66b}Basic Info
-UI_20160224_002072	{@st66b}Property
-UI_20160224_002073	The guild master is searching for Guild Event participants.
-UI_20160224_002074	{@st63_yellow}Members :{/}
-UI_20160224_002075	{@st63}%s participants (Login %s){/}
-UI_20160224_002076	{@st63_yellow}Location :{/}
+UI_20160224_002066	{@st59}Cerrar{/}
+UI_20160224_002067	{@st59}Coloca un accesorio{/}
+UI_20160224_002068	{@st66b}Abrir una vez más cuesta plata.{/}
+UI_20160224_002069	{@st66b}(Hasta dos veces para los usuarios con beneficios de Token){/}
+UI_20160224_002070	{@st41b}Has excedido el número de veces permitido.{/}
+UI_20160224_002071	{@st66b}Información Básica
+UI_20160224_002072	{@st66b}Propiedad
+UI_20160224_002073	El Maestro de Guild está buscando participantes para el Evento de Guild.
+UI_20160224_002074	{@st63_yellow}Miembros :{/}
+UI_20160224_002075	{@st63}%s participantes (Login %s){/}
+UI_20160224_002076	{@st63_yellow}Localización :{/}
 UI_20160224_002077	Cobalt Forest
-UI_20160224_002078	{@st63_yellow}Objective :{/}
-UI_20160224_002079	{@st43}Guild Lv. %s{/}
-UI_20160224_002080	{@st66b}Upgrade & Rank
-UI_20160224_002081	{@st66b}Guild Attributes
-UI_20160224_002082	Guild Storage
-UI_20160224_002083	{@st59}Close{/}
-UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
-UI_20160224_002085	{@st41b}Infuse Magic
+UI_20160224_002078	{@st63_yellow}Objetivo :{/}
+UI_20160224_002079	{@st43}Nv de Guild. %s{/}
+UI_20160224_002080	{@st66b}Mejora y Rango
+UI_20160224_002081	{@st66b}Atributos de Guild
+UI_20160224_002082	Almacén de Guild
+UI_20160224_002083	{@st59}Cerrar{/}
+UI_20160224_002084	* El Maestro de Guild puede enviar items a los miembros de guild.{nl}* Los items se pueden recoger a través del Buzón.
+UI_20160224_002085	{@st41b}Infundir Magia
 UI_20160224_002086	{@st41b}Magic Scroll{/}
-UI_20160224_002087	{@st59}Close{/}
-UI_20160224_002088	{@st66b}Consumes 1 Magic Scroll{/}
-UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
-UI_20160224_002090	{@st66b}Missions{/}
+UI_20160224_002087	{@st59}Cerrar{/}
+UI_20160224_002088	{@st66b}Consume 1 Magic Scroll{/}
+UI_20160224_002089	{@st42b}Scrolls Actuales  : %s{/}
+UI_20160224_002090	{@st66b}Misiones{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
-UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your group has to achieve certain objectives in independent instanced zones.{nl}You can either create a party before entering or automatically search for a party to challenge a dungeon.{nl} - Dungeons : Enter by talking to the dungeon entrance NPC in each respective level zone.{nl} - Missions : Enter by talking to the Mercenary Post Receptionists in Fedimian.{nl} - Saalus Convent Mission : Enter by talking to Sister Lhasa at Saalus Convent.{nl}{/}
-UI_20160224_002094	{@st59}Close{/}
-UI_20160224_002095	{@st59}Show/Do not show{/}
-UI_20160224_002096	{@st45tw2}Queuing Time{/}
-UI_20160224_002097	Bid
-UI_20160224_002098	Remaining Bidding Time
-UI_20160224_002099	Item Dice
-UI_20160224_002100	{@st42}%s Benefits{/}
-UI_20160224_002101	Used items disappear from your inventory{nl}and all %s will be reset.{/}
-UI_20160224_002102	The remaining time can be seen in Character Settings.{/}
-UI_20160224_002103	Retrieving data.
+UI_20160224_002093	{@st59b}Mazmorras Instanciadas{nl}{@st59s}Contenido donde tu grupo tiene que alcanzar ciertos objetivos en zonas estanciadas independientes.{nl}Puedes también crear un grupo antes de entrar o buscarlo automáticamente para desafiar una mazmorra.{nl} - Mazmorras : Entra al hablar con el NPC a la entrada en cada zona del respectivo nivel.{nl} - Misiones : Entra al hablar con los Mercenary Post Receptionists en Fedimian.{nl} - Misión de Saalus Convent: Entra al hablar con Sister Lhasa en Saalus Convent.{nl}{/}
+UI_20160224_002094	{@st59}Cerrar{/}
+UI_20160224_002095	{@st59}Mostrar/No Mostrar{/}
+UI_20160224_002096	{@st45tw2}Tiempo de cola{/}
+UI_20160224_002097	Puja
+UI_20160224_002098	Tiempo de Puja Restante
+UI_20160224_002099	Dados
+UI_20160224_002100	{@st42}%s Beneficios{/}
+UI_20160224_002101	Los items usados desaparecen de tu inventario{nl}y todo %s será reseteado.{/}
+UI_20160224_002102	El tiempo restante se puede ver en los Ajustes de Personaje.{/}
+UI_20160224_002103	Recuperando datos.
 UI_20160224_002104	{@st66b}Ranking{/}
-UI_20160224_002105	{@st66b}Spectate
-UI_20160224_002106	{@st41b}Quit Spectating
-UI_20160224_002107	Blue Team
-UI_20160224_002108	Red Team
-UI_20160224_002109	{@59}Show in a new window{/}
-UI_20160224_002110	Adventure Journal Updated
-UI_20160224_002111	{@st41}Exchange
-UI_20160224_002112	Come to the merry kingdom
-UI_20160224_002113	Team Battle League Schedule
-UI_20160224_002114	Recent Records
-UI_20160224_002115	{@st45tw2}Category{/}
+UI_20160224_002105	{@st66b}Espectar
+UI_20160224_002106	{@st41b}Salir del Modo Espectador
+UI_20160224_002107	Equipo Azul
+UI_20160224_002108	Equipo Rojo
+UI_20160224_002109	{@59}Mostrar en una nueva ventana{/}
+UI_20160224_002110	Diaria de Aventura Actualizado
+UI_20160224_002111	{@st41}Intercambio
+UI_20160224_002112	Ven al reino féliz
+UI_20160224_002113	Calendadrio Liga de Batalla por Equipos
+UI_20160224_002114	Records Recientes
+UI_20160224_002115	{@st45tw2}Categoría{/}
 UI_20160224_002116	{@st41c}%s{/}
 UI_20160224_002117	{@st41c}%sm{/}
-UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis's rule.{nl}Defeat Temple Shooter and help make Crystal Mine safe once more.
-UI_20160224_002119	{@st41c}Chapter %s{/}
-UI_20160224_002120	Name & Class
-UI_20160224_002121	{@st41b}Refresh
-UI_20160224_002122	View Recent History
-UI_20160224_002123	Spectate
+UI_20160224_002118	Temple Shooter está reuniendo Vubbes de vuelta a la Crystal Mine que está fuera de las normas de Mirtis.{nl}Derrota al Temple Shooter y ayuda a hacer que la Crystal Mine sea segura una vez más.
+UI_20160224_002119	{@st41c}Capítulo %s{/}
+UI_20160224_002120	Nombre y Clase
+UI_20160224_002121	{@st41b}Refrescar
+UI_20160224_002122	Ver Historia Reciente
+UI_20160224_002123	Espectar
 UI_20160224_002124	{#000000}%s W{/}
-UI_20160224_002125	{@st66b}Point Shop
-UI_20160224_002126	Daily Points
-UI_20160224_002127	Purchased Points
+UI_20160224_002125	{@st66b}Tienda de Puntos
+UI_20160224_002126	Puntos Diarios
+UI_20160224_002127	Puntos Comprados
 UI_20160224_002128	Records
-UI_20160224_002129	Storage
-UI_20160224_002130	Rank %s
-UI_20160224_002131	Defeats : %s
-UI_20160224_002132	Damage : %s
-UI_20160224_002133	Increased maximum buff count
+UI_20160224_002129	Almacén
+UI_20160224_002130	Rango %s
+UI_20160224_002131	Derrotas : %s
+UI_20160224_002132	Daño : %s
+UI_20160224_002133	Contador de buff máximo incrementado
 UI_20160310_002134	{@st65}Daño: %s{/}
 UI_20160310_002135	{@st65}{s12}Logro{/}
 UI_20160310_002136	{#16120e}Logro{/}
-UI_20160310_002137	Count: %s
+UI_20160310_002137	Contador: %s
 UI_20160310_002138	Daño: %s
 UI_20160310_002139	{@sti9}Ranking de Muertes
 UI_20160310_002140	{@sti9}Ranking de Daño
