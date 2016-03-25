@@ -9,7 +9,7 @@ SKILL_20150317_000008	[Puragi] Físico, Golpe, Propiedad Veneno, Ataca 1 vez
 SKILL_20150317_000009	[Puragi] Físico, Golpe, Propiedad Veneno, Pisotea 1 vez
 SKILL_20150317_000010	[Zigri] Ataque Normal, AdE Cónica
 SKILL_20150317_000011	[Zigri] Golpe Giratorio
-SKILL_20150317_000012	[Zigri] Salta y Arremetida de Conmoción
+SKILL_20150317_000012	[Zigri] Salta y Pisotón Conmocionante
 SKILL_20150317_000013	[Fisherman] Físico, Golpe, Propiedad Hielo, Golpea con Caña de Pescar
 SKILL_20150317_000014	[Fisherman] Mágico, Buff, Magia, Habilidad de Buff
 SKILL_20150317_000015	[Green Pokuborn] Físico, Perforación, Propiedad Rayo, Ataque de Cuerno 1 vez
@@ -38,7 +38,7 @@ SKILL_20150317_000037	[Slime_Dark] Físico, Golpe, Propiedad Oscuridad, Cabezazo
 SKILL_20150317_000038	[Slime_Dark] Físico, Golpe, Propiedad Oscuridad, Ataca 1 vez
 SKILL_20150317_000039	[Kepa] Físico, Golpe, Propiedad Veneno, AdE Cónica
 SKILL_20150317_000040	[Addicted Kepa] Ataque Normal, AdE Cónica
-SKILL_20150317_000041	[Old Kepa] Físico, Golpe, Propiedad Tierra, Humear
+SKILL_20150317_000041	[Old Kepa] Físico, Golpe, Propiedad Tierra, Echa Humo
 SKILL_20150317_000042	[Thornball] Físico, Golpe, Propiedad Veneno, AdE Cónica
 SKILL_20150317_000043	[Matsum] Físico, Golpe, Propiedad Fuego, AdE Cónica
 SKILL_20150317_000044	[Sakmoli] Mágico, Golpe, Propiedad Hielo, Ataque Normal 1 vez
@@ -57,79 +57,79 @@ SKILL_20150317_000056	[Old Kepa] Ataque Normal, AdE Cónica
 SKILL_20150317_000057	[Tree Ghost] Golpe a Una mano
 SKILL_20150317_000058	[Tree Ghost] Palmada a Dos manos
 SKILL_20150317_000059	[Tree Ghost] Pisotear Suelo
-SKILL_20150317_000060	[Cockatrice] Magic, Magic, Fire Property, Fume Fire 3 times
-SKILL_20150317_000061	[Zinute] Physical Pierce Fire Property Attack 1 time
-SKILL_20150317_000062	[Zinute] Physical Slash Fire Property Attack 1 time
-SKILL_20150317_000063	[Tontulia] Physical Strike Lightning Property Attack 1 time
-SKILL_20150317_000064	[Tontulia] Physical Strike Lightning Property Attack 2 times
-SKILL_20150317_000065	[Tontus] Physical Strike, Poison Property Attack 2 times
-SKILL_20150317_000066	[Tontus] Physical Pierce, Poison Property Attack 1 time
-SKILL_20150317_000067	[Tontus] Physical Strike, Poison Property Attack 1 time
-SKILL_20150317_000068	[Vekarabe] Physical, Pierce, Poison Property, Forward Pierce Attack
-SKILL_20150317_000069	[Vekarabe] Physical, Pierce, Poison Property, Forward Upper Pierce Attack
-SKILL_20150317_000070	[Geppetto] Physical Strike, Earth Property Attack 2 times
-SKILL_20150317_000071	[Geppetto] Physical Strike, Earth Property Attack 1 time
-SKILL_20150317_000072	[Geppetto] Physical Strike, Earth Property Attack 1 time
-SKILL_20150317_000073	[Boowook] Physical, Strike, Earth Property Attack 1 time
-SKILL_20150317_000074	[Boowook] Physical, Strike, Earth Property Feet Stomp Attack 1 time,
-SKILL_20150317_000075	[Desmodus] Physical, Pierce, Dark Property Tail Blow
-SKILL_20150317_000076	[Desmodus] Physical, Pierce, Dark Property Body Blow
-SKILL_20150317_000077	[Pino] Physical Blow, Earth Property Attack 1 time
-SKILL_20150317_000078	[Cauliflower] Physical, Pierce, Poison Property, Smash with tentacle
-SKILL_20150317_000079	[Cauliflower] Physical, Pierce, Poison Property, Gouge with tentacle
-SKILL_20150317_000080	[Cauliflower] Physical, Pierce, Poison Property, Ground Smash
-SKILL_20150317_000081	[Helmet Bug] Physical, Pierce, Earth Property, Attack 1 time
-SKILL_20150317_000082	[Helmet Bug] Normal Attack2
-SKILL_20150317_000083	[Bikaaras Mage] Magic, Magic, Fire Property, Attack 1 time
-SKILL_20150317_000084	[Bikaaras Mage] Physical, Slash, Fire Property, Attack 1 time
-SKILL_20150317_000085	[Vikaras] Physical, Slash, Fire Property, Attack 1 time
-SKILL_20150317_000086	[Vikaras] Physical, Slash, Fire Property, Ground Smash 1 time
-SKILL_20150317_000087	[Mutant Chinency] Normal Attack, Forward Missile
-SKILL_20150317_000088	[Zinute] One-handed Blow
-SKILL_20150317_000089	[Zinute] Two-handed clap
-SKILL_20150317_000090	[Zinute] Ground Smash
-SKILL_20150317_000091	[Lauzinute] Physical, Pierce, Fire Property Attack 1 time
-SKILL_20150317_000092	[Lauzinute] Physical, Pierce, Fire Property Rotating Attack
-SKILL_20150317_000093	[Dandel] Physical Pierce Lightning Property Attack 1 time
-SKILL_20150317_000094	[Rusrat] Physical, Slash, Lightning Property Attack 2 times
-SKILL_20150317_000095	[Rusrat] Physical, Slash, Lightning Property Attack 1 time
-SKILL_20150317_000096	[Medakia] Physical, Slash, Dark Property Attack 1 time
-SKILL_20150317_000097	[Medakia] Magic, Magic, Dark Property Attack 1 time
-SKILL_20150317_000098	[Medakia] Ground Smash
-SKILL_20150317_000099	[Wheelen] Two-handed clap
-SKILL_20150317_000100	[Mauros] Physical, Strike, Dark Property Attack 1 time
-SKILL_20150317_000101	[Mauros] Physical, Strike, Dark Property Smash Attack 1 time
-SKILL_20150317_000102	[Sauga] Physical Strike Earth Property Attack 1 time
-SKILL_20150317_000103	[Sauga] Physical, Strike, Earth Property Ground Smash
-SKILL_20150317_000104	Pumpkin Normal attack.
-SKILL_20150317_000105	Attack 2
-SKILL_20150317_000106	Pumpkin Normal attack 2.
-SKILL_20150317_000107	[Saurman Priest] Normal attack.
+SKILL_20150317_000060	[Cockatrice] Mágico, Magia, Propiedad Fuego, Echa Fuego 3 veces
+SKILL_20150317_000061	[Zinute] Físico, Perforación, Propiedad Fuego, Ataca 1 vez
+SKILL_20150317_000062	[Zinute] Físico, Corte, Propiedad Fuego, Ataca 1 vez
+SKILL_20150317_000063	[Tontulia] Físico, Golpe, Propiedad Relámpago, Ataca 1 vez
+SKILL_20150317_000064	[Tontulia] Físico, Golpe, Propiedad Relámpago, Ataca 2 veces
+SKILL_20150317_000065	[Tontus] Físico, Golpe, Propiedad Veneno, Ataca 2 veces
+SKILL_20150317_000066	[Tontus] Físico, Perforación, Propiedad Veneno, Ataca 1 vez
+SKILL_20150317_000067	[Tontus] Físico, Golpe, Propiedad Veneno, Ataque 1 vez
+SKILL_20150317_000068	[Vekarabe] Físico, Perforación, Propiedad Veneno, Ataque Perforador Delantero
+SKILL_20150317_000069	[Vekarabe] Físico, Perforación, Propiedad Veneno, Ataque Perforador Delantero Superior
+SKILL_20150317_000070	[Geppetto] Físico, Golpe, Propiedad Tierra, Ataca 2 veces
+SKILL_20150317_000071	[Geppetto] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000072	[Geppetto] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000073	[Boowook] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000074	[Boowook] Físico, Golpe, Propiedad Tierra, Ataque de Pisotón 1 vez,
+SKILL_20150317_000075	[Desmodus] Físico, Golpe, Propiedad Oscuridad, Golpe de Cola
+SKILL_20150317_000076	[Desmodus] Físico, Perforación, Propiedad Oscuridad, Golpe Corporal
+SKILL_20150317_000077	[Pino] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000078	[Cauliflower] Físico, Perforación, Propiedad Veneno, Aplasta con tentáculo
+SKILL_20150317_000079	[Cauliflower] Físico, Perforación, Propiedad Veneno, Gubia con tentáculo
+SKILL_20150317_000080	[Cauliflower] Físico, Perforación, Propiedad Veneno, Aplastar Suelo
+SKILL_20150317_000081	[Helmet Bug] Físico, Perforación, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000082	[Helmet Bug] Ataque Normal 2 veces
+SKILL_20150317_000083	[Bikaaras Mage] Mágico, Magia, Propiedad Fuego, Ataca 1 vez
+SKILL_20150317_000084	[Bikaaras Mage] Físico, Corte, Propiedad Fuego, Ataca 1 vez
+SKILL_20150317_000085	[Vikaras] Físico, Corte, Propiedad Fuego, Ataca 1 vez
+SKILL_20150317_000086	[Vikaras] Físico, Corte, Propiedad Fuego, Aplastar Suelo 1 vez
+SKILL_20150317_000087	[Mutant Chinency] Ataque Normal, Misil Delantero
+SKILL_20150317_000088	[Zinute] Golpe a Una mano
+SKILL_20150317_000089	[Zinute] Palmada a Dos manos
+SKILL_20150317_000090	[Zinute] Aplastar Suelo
+SKILL_20150317_000091	[Lauzinute] Físico, Perforación, Propiedad Fuego, Ataca 1 vez
+SKILL_20150317_000092	[Lauzinute] Físico, Perforación, Propiedad Fuego, Ataque Rotatorio
+SKILL_20150317_000093	[Dandel] Físico, Perforación, Propiedad Relámpago, Ataca 1 vez
+SKILL_20150317_000094	[Rusrat] Físico, Corte, Propiedad Relámpago, Ataca 2 veces
+SKILL_20150317_000095	[Rusrat] Físico, Corte, Propiedad Relámpago, Ataca 1 vez
+SKILL_20150317_000096	[Medakia] Físico, Corte, Propiedad Oscuridad, Ataca 1 vez
+SKILL_20150317_000097	[Medakia] Mágico, Magia, Propiedad Oscuridad, Ataca 1 vez
+SKILL_20150317_000098	[Medakia] Aplastar Suelo
+SKILL_20150317_000099	[Wheelen] Palmada a Dos manos
+SKILL_20150317_000100	[Mauros] Físico, Golpe, Propiedad Oscuridad, Ataca 1 vez
+SKILL_20150317_000101	[Mauros] Físico, Golpe, Propiedad Oscuridad, Ataque Aplastante 1 vez
+SKILL_20150317_000102	[Sauga] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000103	[Sauga] Físico, Golpe, Propiedad Tierra, Aplastar Suelo
+SKILL_20150317_000104	[Pumpkin] Ataque Normal
+SKILL_20150317_000105	Ataca 2 veces
+SKILL_20150317_000106	[Pumpkin] Normal attack 2.
+SKILL_20150317_000107	[Saurman Priest] Ataque Normal.
 SKILL_20150317_000108	Skills
 SKILL_20150317_000109	[Saurman Priest] skills.
-SKILL_20150317_000110	Saurman Normal attack.
-SKILL_20150317_000111	Saurman Normal attack 2.
-SKILL_20150317_000112	Boy Ghost Normal attack.
-SKILL_20150317_000113	Boy Ghost skills.
-SKILL_20150317_000114	Uncle Ghost Normal attack.
-SKILL_20150317_000115	Uncle Ghost skills.
-SKILL_20150317_000116	Goble Elite Normal attack.
-SKILL_20150317_000117	Goble Elite Normal attack 2.
-SKILL_20150317_000118	Screw Zombie Normal attack.
-SKILL_20150317_000119	Screw Zombie Normal attack 2.
-SKILL_20150317_000120	Berserker Zombie Normal attack.
-SKILL_20150317_000121	Candle Zombie Normal attack.
-SKILL_20150317_000122	Zombie Archer Normal attack.
-SKILL_20150317_000123	[High Vubbe] Physical, Slash, Water Property, Normal attack
-SKILL_20150317_000124	[High Vubbe Archer] Range, Pierce, Water Property, Normal attack
-SKILL_20150317_000125	Girl Ghost Normal attack.
-SKILL_20150317_000126	Girl Ghost skills.
-SKILL_20150317_000127	Madam Ghost Normal attack.
-SKILL_20150317_000128	Madam Ghost skills.
-SKILL_20150317_000129	Mirtis Eyeball Normal attack.
-SKILL_20150317_000130	Mirtis Eyeball Normal attack 2.
-SKILL_20150317_000131	Specter Elite Normal attack.
-SKILL_20150317_000132	Specter Elite Normal attack 2.
+SKILL_20150317_000110	[Saurman] Normal attack.
+SKILL_20150317_000111	[Saurman] Normal attack 2.
+SKILL_20150317_000112	[Boy Ghost] Normal attack.
+SKILL_20150317_000113	[Boy Ghost] skills.
+SKILL_20150317_000114	[Uncle Ghost] Normal attack.
+SKILL_20150317_000115	[Uncle Ghost] skills.
+SKILL_20150317_000116	[Goble Elite] Normal attack.
+SKILL_20150317_000117	[Goble Elite] Normal attack 2.
+SKILL_20150317_000118	[Screw Zombie] Normal attack.
+SKILL_20150317_000119	[Screw Zombie] Normal attack 2.
+SKILL_20150317_000120	[Berserker Zombie] Normal attack.
+SKILL_20150317_000121	[Candle Zombie] Normal attack.
+SKILL_20150317_000122	[Zombie Archer] Normal attack.
+SKILL_20150317_000123	[High Vubbe] Físico, Corte, Propiedad Agua, Ataque Normal
+SKILL_20150317_000124	[High Vubbe Archer] Rango, Perforación, Propiedad Agua, Ataque Normal
+SKILL_20150317_000125	[Girl Ghost] Normal attack.
+SKILL_20150317_000126	[Girl Ghost] skills.
+SKILL_20150317_000127	[Madam Ghost] Normal attack.
+SKILL_20150317_000128	[Madam Ghost] skills.
+SKILL_20150317_000129	[Mirtis Eyeball] Normal attack.
+SKILL_20150317_000130	[Mirtis Eyeball] Normal attack 2.
+SKILL_20150317_000131	[Specter Elite] Normal attack.
+SKILL_20150317_000132	[Specter Elite] Normal attack 2.
 SKILL_20150317_000133	[Chinency] Physical, Strike, Earth Property, one stroke ahead-back blow
 SKILL_20150317_000134	[Popolion] Physical, Strike, Earth Property, Headbutt
 SKILL_20150317_000135	[Popolion] Physical, Strike, Earth Property, Sonic wave attack
