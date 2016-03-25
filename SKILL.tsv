@@ -1,62 +1,62 @@
 SKILL_20150317_000001	Atacar
-SKILL_20150317_000002	[Elite Kepa] 1 vez, Físico, Propiedad Veneno, Golpear
+SKILL_20150317_000002	[Elite Kepa] Físico, Golpe, Propiedad Veneno, Ataca 1 vez
 SKILL_20150317_000003	[Rafflesia] Extender Veneno
 SKILL_20150317_000004	[Rafflesia] Bomba de Veneno
-SKILL_20150317_000005	[Raffly] Físico, Golpear, Propiedad Veneno, Ataca 1 vez
-SKILL_20150317_000006	[Raffly] Físico, Golpear, Propiedad Veneno, Ataca en salto 1 vez
-SKILL_20150317_000007	[Puragi] Físico, Golpear, Propiedad Veneno, Ataca Normal 1 vez
-SKILL_20150317_000008	[Puragi] Físico, Golpear, Propiedad Veneno, Ataca 1 vez
-SKILL_20150317_000009	[Puragi] Físico, Golpear, Propiedad Veneno, Arremete 1 vez
-SKILL_20150317_000010	[Zigri] Ataca Normal, AdE Cónica
+SKILL_20150317_000005	[Raffly] Físico, Golpe, Propiedad Veneno, Ataca 1 vez
+SKILL_20150317_000006	[Raffly] Físico, Golpe, Propiedad Veneno, Ataca en salto 1 vez
+SKILL_20150317_000007	[Puragi] Físico, Golpe, Propiedad Veneno, Ataca Normal 1 vez
+SKILL_20150317_000008	[Puragi] Físico, Golpe, Propiedad Veneno, Ataca 1 vez
+SKILL_20150317_000009	[Puragi] Físico, Golpe, Propiedad Veneno, Pisotea 1 vez
+SKILL_20150317_000010	[Zigri] Ataque Normal, AdE Cónica
 SKILL_20150317_000011	[Zigri] Golpe Giratorio
 SKILL_20150317_000012	[Zigri] Salta y Arremetida de Conmoción
-SKILL_20150317_000013	[Fisherman] Físico, Golpear, Propiedad Hielo, Golpea con Caña de Pescar
-SKILL_20150317_000014	[Fisherman] Mágico, Buff, Mágico, Habilidad de Buff
-SKILL_20150317_000015	[Green Pokuborn] Físico, Atraviesa, Propiedad Relámpago, Ataque de Cuerno 1 vez
-SKILL_20150317_000016	[Bushspider] Physical, Strike, Earth Property, Attack 1 time
-SKILL_20150317_000017	[Fragaras] Quick bite
-SKILL_20150317_000018	[Fragaras] Large Chomp
-SKILL_20150317_000019	[Fragaras] Normal Attack, Conical AoE
-SKILL_20150317_000020	Basic Normal Attack
-SKILL_20150317_000021	[Meduja] Magic, Magic, Lightning Property Attack 1 time
-SKILL_20150317_000022	[Gribaru] Physical, Slash, Lightning Property Attack 1 time
-SKILL_20150317_000023	[Gribaru] Physical, Slash, Lightning Property Knock-back Attack Attack 1 time
-SKILL_20150317_000024	[Bite] Physical, Pierce, Poison Property Attack 1 time,
-SKILL_20150317_000025	[Banshee] Magic, Magic, Ice Property, Breath Attack 1 time
-SKILL_20150317_000026	[Banshee] Magic, Magic, Ice Property, Ice Pike
-SKILL_20150317_000027	[Mini Griba] Physical, Strike, Lightning Property, Two-handed Strike 1 time
-SKILL_20150317_000028	[Big Griba] Physical, Strike, Lightning Property, Smash 1 time
-SKILL_20150317_000029	[Big Griba] Physical, Strike, Lightning Property,Spread poison 1 time
-SKILL_20150317_000030	[Big Griba] Physical, Strike, Lightning Property,Ground Smash 1 time
-SKILL_20150317_000031	[Haming] Physical, Strike, Lightning Property, Head Strike
-SKILL_20150317_000032	[Haming] Physical, Strike, Lightning Property, Counter Skill
-SKILL_20150317_000033	[Haming] Physical, Strike, Lightning Property, Jump and rotating attack
-SKILL_20150317_000034	[Truffle] Physical, Strike, Lightning Property, Body Slam
-SKILL_20150317_000035	[Truffle] Physical, Strike, Lightning Property, Smash
-SKILL_20150317_000036	[Truffle] Physical, Strike, Lightning Property, Body Slam
-SKILL_20150317_000037	[Slime_Dark] Physical, Strike, Dark Property, Headbutt
-SKILL_20150317_000038	[Slime_Dark] Physical, Strike, Dark Property, Attack 1 time
-SKILL_20150317_000039	[Kepa] Physical, Strike, Poison Property, Conical AoE
-SKILL_20150317_000040	[Addicted Kepa] Normal Attack, Conical AoE
-SKILL_20150317_000041	[Old Kepa] Physical, Strike, Earth Property, Fume Smoke
-SKILL_20150317_000042	[Thornball] Physical, Pierce, Poison Property, Conical AoE
-SKILL_20150317_000043	[Matsum] Physical, Strike, Fire Property, Conical AoE
-SKILL_20150317_000044	[Sakmoli] Magic, Strike, Ice Property. Normal Attack 1 time
-SKILL_20150317_000045	[Sakmoli] Magic, Strike, Ice Property, Normal Attack 1 time
-SKILL_20150317_000046	[Jukopus] Physical, Strike, Earth Property, Body Slam
-SKILL_20150317_000047	[Jukopus] Physical, Strike, Earth Property, Jump and Body Slam
-SKILL_20150317_000048	[Red Bushspider] Jump and Smash
-SKILL_20150317_000049	[Red Bushspider] Normal Attack, Conical AoE
-SKILL_20150317_000050	[Baby Dionia] Normal Attack, Conical AoE
-SKILL_20150317_000051	[Mini Griba] Physical, Strike, Poison Property, One Punch
-SKILL_20150317_000052	[Mini Griba] Physical, Strike, Poison Property, One-two Punch
-SKILL_20150317_000053	[Mini Griba] Physical, Strike, Poison Property, Two-handed Strike
-SKILL_20150317_000054	[Griba] Physical, Strike, Ice Property Attack 1 time
-SKILL_20150317_000055	[Griba] Magic, Magic, Ice Property Attack 1 time
-SKILL_20150317_000056	[Old Kepa] Normal Attack, Conical AoE
-SKILL_20150317_000057	[Tree Ghost] One-handed Strike
-SKILL_20150317_000058	[Tree Ghost] Two-handed clap
-SKILL_20150317_000059	[Tree Ghost] Stomp ground
+SKILL_20150317_000013	[Fisherman] Físico, Golpe, Propiedad Hielo, Golpea con Caña de Pescar
+SKILL_20150317_000014	[Fisherman] Mágico, Buff, Magia, Habilidad de Buff
+SKILL_20150317_000015	[Green Pokuborn] Físico, Perforación, Propiedad Rayo, Ataque de Cuerno 1 vez
+SKILL_20150317_000016	[Bushspider] Físico, Golpe, Propiedad Tierra, Ataca 1 vez
+SKILL_20150317_000017	[Fragaras] Mordisco rápido
+SKILL_20150317_000018	[Fragaras] Gran mordisco
+SKILL_20150317_000019	[Fragaras] Ataque Normal, AdE Cónica
+SKILL_20150317_000020	Ataque Básico Normal
+SKILL_20150317_000021	[Meduja] Mágico, Magia, Propiedad Rayo, Ataca 1 vez
+SKILL_20150317_000022	[Gribaru] Físico, Corte, Propiedad Rayo, Ataca 1 vez
+SKILL_20150317_000023	[Gribaru] Físico, Corte, Propiedad Rayo, Ataque de Rechazo, Ataca 1 vez
+SKILL_20150317_000024	[Bite] Físico, Perforación, Propiedad Veneno, Ataca 1 vez
+SKILL_20150317_000025	[Banshee] Mágico, Magia, Propiedad Hielo, Ataque de Aliento 1 vez
+SKILL_20150317_000026	[Banshee] Mágico, Magia, Propiedad Hielo, Pica de Hielo
+SKILL_20150317_000027	[Mini Griba] Físico, Golpe, Propiedad Relámpago, Ataque a Dos manos 1 vez
+SKILL_20150317_000028	[Big Griba] Físico, Golpe, Propiedad Relámpago, Aplastar 1 vez
+SKILL_20150317_000029	[Big Griba] Físico, Golpe, Propiedad Relámpago, Extender Veneno 1 vez
+SKILL_20150317_000030	[Big Griba] Físico, Golpe, Propiedad Relámpago, Aplastar Suelo 1 vez
+SKILL_20150317_000031	[Haming] Físico, Golpe, Propiedad Relámpago, Golpe de Cabeza
+SKILL_20150317_000032	[Haming] Físico, Golpe, Propiedad Relámpago, Contraataque
+SKILL_20150317_000033	[Haming] Físico, Golpe, Propiedad Relámpago, Salta y Ataque giratorio
+SKILL_20150317_000034	[Truffle] Físico, Golpe, Propiedad Relámpago, Golpe de Cuerpo
+SKILL_20150317_000035	[Truffle] Físico, Golpe, Propiedad Relámpago, Aplastar
+SKILL_20150317_000036	[Truffle] Físico, Golpe, Propiedad Relámpago, Golpe de Cuerpo
+SKILL_20150317_000037	[Slime_Dark] Físico, Golpe, Propiedad Oscuridad, Cabezazo
+SKILL_20150317_000038	[Slime_Dark] Físico, Golpe, Propiedad Oscuridad, Ataca 1 vez
+SKILL_20150317_000039	[Kepa] Físico, Golpe, Propiedad Veneno, AdE Cónica
+SKILL_20150317_000040	[Addicted Kepa] Ataque Normal, AdE Cónica
+SKILL_20150317_000041	[Old Kepa] Físico, Golpe, Propiedad Tierra, Humear
+SKILL_20150317_000042	[Thornball] Físico, Golpe, Propiedad Veneno, AdE Cónica
+SKILL_20150317_000043	[Matsum] Físico, Golpe, Propiedad Fuego, AdE Cónica
+SKILL_20150317_000044	[Sakmoli] Mágico, Golpe, Propiedad Hielo, Ataque Normal 1 vez
+SKILL_20150317_000045	[Sakmoli] Mágico, Golpe, Propiedad Hielo, Ataque Normal 1 vez
+SKILL_20150317_000046	[Jukopus] Físico, Golpe, Propiedad Tierra, Golpe de Cuerpo
+SKILL_20150317_000047	[Jukopus] Físico, Golpe, Propiedad Tierra, Salta y Golpe de Cuerpo
+SKILL_20150317_000048	[Red Bushspider] Salta y Aplasta
+SKILL_20150317_000049	[Red Bushspider] Ataque Normal, AdE Cónica
+SKILL_20150317_000050	[Baby Dionia] Ataque Normal, AdE Cónica
+SKILL_20150317_000051	[Mini Griba] Físico, Golpe, Propiedad Veneno, Puñetazo
+SKILL_20150317_000052	[Mini Griba] Físico, Golpe, Propiedad Veneno, Puñetazo Uno-Dos
+SKILL_20150317_000053	[Mini Griba] Físico, Golpe, Propiedad Veneno, Golpe a Dos manos
+SKILL_20150317_000054	[Griba] Físico, Golpe, Propiedad Hielo, Ataca 1 vez
+SKILL_20150317_000055	[Griba] Mágico, Magia, Propiedad Hielo, Ataca 1 vez
+SKILL_20150317_000056	[Old Kepa] Ataque Normal, AdE Cónica
+SKILL_20150317_000057	[Tree Ghost] Golpe a Una mano
+SKILL_20150317_000058	[Tree Ghost] Palmada a Dos manos
+SKILL_20150317_000059	[Tree Ghost] Pisotear Suelo
 SKILL_20150317_000060	[Cockatrice] Magic, Magic, Fire Property, Fume Fire 3 times
 SKILL_20150317_000061	[Zinute] Physical Pierce Fire Property Attack 1 time
 SKILL_20150317_000062	[Zinute] Physical Slash Fire Property Attack 1 time
