@@ -133,84 +133,84 @@ SKILL_20150317_000132	[Specter Elite] Normal attack 2.
 SKILL_20150317_000133	[Chinency] Físico, Golpe, Propiedad Tierra, one stroke ahead-back blow
 SKILL_20150317_000134	[Popolion] Físico, Golpe, Propiedad Tierra, Cabezazo
 SKILL_20150317_000135	[Popolion] Físico, Golpe, Propiedad Tierra, Onda Sónica
-SKILL_20150317_000136	[Range Chinency] Normal attack, Forward missile
-SKILL_20150317_000137	[Range Chinency] Skill 1, Forward missile, induce Knockback
-SKILL_20150317_000138	[Chupacabra] Physical, Strike, Earth Property, Headbutt
-SKILL_20150317_000139	[Chupacabra] Physical, Strike, Earth Property, Jump and Stomp
+SKILL_20150317_000136	[Range Chinency] Ataque Normal, Misil Delantero
+SKILL_20150317_000137	[Range Chinency] Habilidad 1, Misil Delantero, induce a Rechazo
+SKILL_20150317_000138	[Chupacabra] Físico, Golpe, Propiedad Tierra, Cabezazo
+SKILL_20150317_000139	[Chupacabra] Físico, Golpe, Propiedad Tierra, Salta y Pisotea
 SKILL_20150317_000140	[Chupacabra] Chupa Normal attack 3
 SKILL_20150317_000141	[Chupacabra] Chupa Normal attack 4
-SKILL_20150317_000142	Specter Normal attack.
-SKILL_20150317_000143	Woodspirit Normal attack.
-SKILL_20150317_000144	Woodspirit Normal attack 2.
-SKILL_20150317_000145	Guard Normal attack.
-SKILL_20150317_000146	Guard Normal attack 2.
-SKILL_20150317_000147	Large explosion
-SKILL_20150317_000148	Large explosion (Defense)
+SKILL_20150317_000142	[Specter] Normal attack.
+SKILL_20150317_000143	[Woodspirit] Normal attack.
+SKILL_20150317_000144	[Woodspirit] Normal attack 2.
+SKILL_20150317_000145	[Guard] Normal attack.
+SKILL_20150317_000146	[Guard] Normal attack 2.
+SKILL_20150317_000147	Gran Explosión
+SKILL_20150317_000148	Gran Explosión (Defensa)
 SKILL_20150317_000149	One-way turret Normal attack.
-SKILL_20150317_000150	[Ridimed] Physical, Blow, Poison Property, Attack 1 time
-SKILL_20150317_000151	Goblin Fighter attack.
-SKILL_20150317_000152	Thorn Bush Normal attack.
+SKILL_20150317_000150	[Ridimed] Físico, Golpe, Propiedad Veneno, Ataca 1 vez
+SKILL_20150317_000151	[Goblin Fighter] attack.
+SKILL_20150317_000152	[Thorn Bush] Normal attack.
 SKILL_20150317_000153	[Combat Soldiers] Combatants attack
 SKILL_20150317_000154	[Combat Soldiers] Combatants attack 2
-SKILL_20150317_000155	Zombie Archer skill.
-SKILL_20150317_000156	Wheelchair Zombie Normal attack.
-SKILL_20150317_000157	Wheelchair Zombie skills.
+SKILL_20150317_000155	[Zombie Archer] skill.
+SKILL_20150317_000156	[Wheelchair Zombie] Normal attack.
+SKILL_20150317_000157	[Wheelchair Zombie] skills.
 SKILL_20150317_000158	Wall of Flame
-SKILL_20150317_000159	Create a Wall of Flame that damages enemies upon contact.
+SKILL_20150317_000159	Crea un Muro de LLamas que daña al entrar en contacto con el enemigo.
 SKILL_20150317_000160	Mine explosion
-SKILL_20150317_000161	Detonate explosive mines.
+SKILL_20150317_000161	Detona minas explosivas.
 SKILL_20150317_000162	Toxic explosion
-SKILL_20150317_000163	Detonate toxic mines.
+SKILL_20150317_000163	Detona minas tóxicas.
 SKILL_20150317_000164	Claymore explosion
 SKILL_20150317_000165	Claymore explosion.
-SKILL_20150317_000166	Jump Attack
+SKILL_20150317_000166	Ataque en Salto
 SKILL_20150317_000167	Life Stream
 SKILL_20150317_000168	Life Stream Hill
 SKILL_20150317_000169	Glacier Wedge
-SKILL_20150317_000170	After the 2 Glacier Wedge
+SKILL_20150317_000170	Tras 2 Glacier Wedge
 SKILL_20150317_000171	Seed explosion
 SKILL_20150317_000172	Seed explosion.
 SKILL_20150317_000173	Flame explosion
 SKILL_20150317_000174	Flame explosion.
 SKILL_20150317_000175	Snowstorm
 SKILL_20150317_000176	Meteor Bang
-SKILL_20150317_000177	Normal attack
+SKILL_20150317_000177	Ataque Normal
 SKILL_20150317_000178	Smack Down
-SKILL_20150317_000179	Smack down and damage enemies while pushing them away.
+SKILL_20150317_000179	Golpea y daña a los enemigos mientras los empuja.
 SKILL_20150317_000180	Missile attack
 SKILL_20150317_000181	AOS turret attack
 SKILL_20150317_000182	[Woodman] attack
-SKILL_20150317_000183	Salamander attack
-SKILL_20150317_000184	[Vubbe Miner] Physical, Slash, Earth Property, Swing Pickaxe
-SKILL_20150317_000185	Hall statue attack
-SKILL_20150317_000186	Hall statue skill
-SKILL_20150317_000187	Priest attack 1
-SKILL_20150317_000188	Priest skill 1
-SKILL_20150317_000189	[Green Apparition] Magic, Magic, Lightning Property, Attack 1 time
+SKILL_20150317_000183	[Salamander] attack
+SKILL_20150317_000184	[Vubbe Miner] Físico, Corte, Propiedad Tierra, Oscilar Pico
+SKILL_20150317_000185	[Hall statue] attack
+SKILL_20150317_000186	[Hall statue] skill
+SKILL_20150317_000187	[Priest] attack 1
+SKILL_20150317_000188	[Priest] skill 1
+SKILL_20150317_000189	[Green Apparition] Mágico, Magia, Propiedad Relámpago, Ataca 1 vez
 SKILL_20150317_000190	Attack Statue 1
-SKILL_20150317_000191	[Vubbe Theif] Physical, Slash, Earth Property, Spear Twirl
-SKILL_20150317_000192	[Vubbe Theif] Physical, Pierce, Earth Property Aries skills
+SKILL_20150317_000191	[Vubbe Theif] Físico, Corte, Propiedad Tierra, Giro de Lanza
+SKILL_20150317_000192	[Vubbe Theif] Físico, Perforación, Propiedad Tierra, Habilidades Aries
 SKILL_20150317_000193	[Saurman Spearman] Normal attack.
 SKILL_20150317_000194	[Saurman Spearman] Normal attack 2.
-SKILL_20150317_000195	[Vubbe Archer] Range, Pierce, Earth Property, Frontal Arrow Shot
-SKILL_20150317_000196	[Pokubu] Physical, blow, Earth Property, Hook Attack
-SKILL_20150317_000197	[Bagworm] Magic, Magic, Poison Property, Frontal Poison Spread Attack
-SKILL_20150317_000198	[Bagworm] Long Distance, Magic, Poison Property, Ranged Poison Shot
+SKILL_20150317_000195	[Vubbe Archer] Rango, Perforación, Propiedad Tierra, Disparo de Flecha Frontal
+SKILL_20150317_000196	[Pokubu] Físico, Golpe, Propiedad Tierra, Ataque de Garfio
+SKILL_20150317_000197	[Bagworm] Mágico, Magia, Propiedad Veneno, Extender Veneno Frontal
+SKILL_20150317_000198	[Bagworm] Larga Distancia, Magia, Propiedad Veneno, Disparo Extenso Envenenado
 SKILL_20150317_000199	[Saurman Axeman] Normal attack.
 SKILL_20150317_000200	[Saurman Axeman] Normal attack 2.
 SKILL_20150317_000201	Heal
 SKILL_20150317_000202	Monster Heal
-SKILL_20150317_000203	Vubbe Miner Attack
+SKILL_20150317_000203	[Vubbe Miner] Attack
 SKILL_20150317_000204	[Feral Pokubu] Normal attack.
-SKILL_20150317_000205	Guard Normal attack.
-SKILL_20150317_000206	Guard Normal attack 2.
-SKILL_20150317_000207	Guard Normal attack 3.
-SKILL_20150317_000208	[Candle Spider] Physical, Blow, Dark Property, One-Legged Attack
-SKILL_20150317_000209	[Candle Spider] Physical, Blow, Dark Property, Body Slam
-SKILL_20150317_000210	[Candle Spider] Physical, Blow, Dark Property, Jump and Two-Legged Stomp
-SKILL_20150317_000211	[Winged Frog] Physical, Blow, poison Property, Attack 1 time
-SKILL_20150317_000212	[Winged Frog] Physical, Blow, poison Property, Poison Attack 1 time
-SKILL_20150317_000213	[Winged Frog] Physical, Blow, Dark Property, Headbutt Knockback Attack
+SKILL_20150317_000205	[Guard] Normal attack.
+SKILL_20150317_000206	[Guard] Normal attack 2.
+SKILL_20150317_000207	[Guard] Normal attack 3.
+SKILL_20150317_000208	[Candle Spider] Físico, Golpe, Dark Propiedad Oscuridad, Ataque Unípedo
+SKILL_20150317_000209	[Candle Spider] Físico, Golpe, Propiedad Oscuridad, Golpe de Cuerpo
+SKILL_20150317_000210	[Candle Spider] Físico, Golpe, Propiedad Oscuridad, Salta y Pisitón Bípedo
+SKILL_20150317_000211	[Winged Frog] Físico, Golpe, Propiedad Veneno, Ataca 1 vez
+SKILL_20150317_000212	[Winged Frog] Físico, Golpe, Propiedad Veneno, Ataque Venenoso 1 time
+SKILL_20150317_000213	[Winged Frog] Físico, Golpe, Propiedad Oscuridad, Cabezazo Rechazador
 SKILL_20150317_000214	[Black Leaf Bug] Physical, Blow, Dark Property, Body Slam
 SKILL_20150317_000215	[Black Leaf Bug] Physical, Blow, Dark Property, Bite attack
 SKILL_20150317_000216	[Black Leaf Bug] Physical, Blow, Dark Property, Jump attack
@@ -783,8 +783,8 @@ SKILL_20150317_000782	[Rogue Master] Normal attack
 SKILL_20150317_000783	[Monk Master] Normal attack
 SKILL_20150317_000784	[Oracle Master] Normal attack
 SKILL_20150317_000785	[Druid Master] Normal attack
-SKILL_20150317_000786	Basic Attack
-SKILL_20150317_000787	Attack an enemy from a short distance.
+SKILL_20150317_000786	Ataque básico
+SKILL_20150317_000787	Ataca a un enemigo a corta distancia.
 SKILL_20150317_000788	Right-hand Bow (Two-handed Bow only)
 SKILL_20150317_000789	Deal damage by swinging your weapon to an enemy from a short distance.
 SKILL_20150317_000790	Attack an enemy with magic from a far distance.
@@ -918,43 +918,43 @@ SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
 SKILL_20150317_000920	Thrust
-SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push back an enemy.
-SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
+SKILL_20150317_000921	{#DD5500}{ol}[Físico] - [Perforación]{/}{/}{nl}Atraviesa y empuja a un enemigo.
+SKILL_20150317_000922	Ataque #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
-SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to a target by strongly swinging your weapon.
+SKILL_20150317_000924	{#DD5500}{ol}[Físico] - [Corte]{/}{/}{nl}Infringe daño al objetivo balanceando fuertemente tu arma.
 SKILL_20150317_000925	Gung Ho
-SKILL_20150317_000926	Increases your attack, but decreases your defense.
-SKILL_20150317_000927	Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_000926	Incrementa tu ataque, pero disminuye tu defensa.
+SKILL_20150317_000927	Daño Físico: +#{CaptionRatio}#{nl}Defensa Física: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
 SKILL_20150317_000928	Concentrate
-SKILL_20150317_000929	Increases the power of your attacking skills.
-SKILL_20150317_000930	Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_000929	Incremente el poder de tus habilidades de ataque.
+SKILL_20150317_000930	Daño Adicional: +#{CaptionRatio2}#{nl}Número de Golpes: #{CaptionRatio}#{nl}Duración: #{CaptionTime}# segundos
 SKILL_20150317_000931	Restrain
-SKILL_20150317_000932	Decreases your maximum HP, but increases your attack.
-SKILL_20150317_000933	Physical Attack: +#{CaptionRatio}#{nl}Maximum HP: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_000932	Disminuye tu HP máximo, pero incrementa tu ataque.
+SKILL_20150317_000933	Ataque Físico: +#{CaptionRatio}#{nl}HP Máximo: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
 SKILL_20150317_000934	Umbo Blow
-SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
+SKILL_20150317_000935	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Ataca sacudiendo tu escudo. {nl} Infringe más daño tras bloquear un ataque enemigo.
 SKILL_20150317_000936	Rim Blow
-SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Inflicts more damage to both petrified and frozen enemies.
+SKILL_20150317_000937	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Ataca usando el borde de tu escudo. {nl} Infringe más daños enemigos petrificados y congelados.
 SKILL_20150317_000938	Swash Buckling
-SKILL_20150317_000939	Strike your shield to provoke nearby enemies.
-SKILL_20150317_000940	Targets: #{SkillSR}#{nl}Maximum Provocation: +#{CaptionRatio}# for #{CaptionTime}# seconds
-SKILL_20150317_000941	Decreases your attack, but increases your defense.
-SKILL_20150317_000942	Physical Defense: +#{CaptionRatio}#{nl}Physical Damage: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20150317_000939	Golpea tu escudo para provocar a enemigos cercanos.
+SKILL_20150317_000940	Objetivos: #{SkillSR}#{nl}Provocación Máxima: +#{CaptionRatio}# por #{CaptionTime}# segundos
+SKILL_20150317_000941	Disminuye tu ataque, pero incrementa tu defensa.
+SKILL_20150317_000942	Defensa Física: +#{CaptionRatio}#{nl}Daño Físico: -#{CaptionRatio2}#{nl}Duración: #{CaptionTime}# segundos
 SKILL_20150317_000943	Shield Lob
-SKILL_20150317_000944	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Throw shield to attack enemy.
+SKILL_20150317_000944	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl} Lanza el escudo para atacar a un enemigo.
 SKILL_20150317_000945	High Guard
 SKILL_20150317_000946	Butterfly
 SKILL_20150317_000947	Wagon Wheel
-SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an uppercut with your weapon, launching enemies.
+SKILL_20150317_000948	{#DD5500}{ol}[Físico] - [Corte]{/}{/}{nl}Realiza un corte ascendente con tu arma, lanzando a los enemigos.
 SKILL_20150317_000949	Cartar Stroke
-SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
-SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
+SKILL_20150317_000950	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl}Reune poder y usa tu arma para atacar a los objetivos aplastándolos en el suelo.
+SKILL_20150317_000951	Ataque #{SkillAtkAdd}#{nl}Tiempo de Lanzamiento 0.5 segundos{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
-SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Release a powerful attack by smashing on the enemy's head. Temporarily decreases the enemy's INT and SPR.
-SKILL_20150317_000954	Attack: #{SkillAtkAdd}#{nl}Splash: #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds
+SKILL_20150317_000953	{#DD5500}{ol}[Físico] - [Golpe]{/}{/}{nl} Realiza un poderoso ataque aplastando la cabeza de tus enemigo. Temporalmente disminuye INT y SPR enemiga.
+SKILL_20150317_000954	Ataque: #{SkillAtkAdd}#{nl}Splash: #{SkillSR}#{nl}{#339999}{ol}[Conmoción]{/}{/} Duración: #{CaptionTime}# segundos
 SKILL_20150317_000955	Cross Guard
-SKILL_20150317_000956	Use your weapon to take a defensive stance.
-SKILL_20150317_000957	Defense: +#{CaptionRatio}#{nl}Block: +#{CaptionRatio2}#
+SKILL_20150317_000956	Usa tu arma para adoptar una postura defensiva.
+SKILL_20150317_000957	Defensa: +#{CaptionRatio}#{nl}Bloqueo: +#{CaptionRatio2}#
 SKILL_20150317_000958	Moulinet
 SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Deal five consecutive frontal attacks to an enemy.
 SKILL_20150317_000960	Stabbing
