@@ -1628,7 +1628,7 @@ UI_20150714_001627	Likes recibidos : %s
 UI_20150714_001628	{@st66b}Mostrar EXP Ganada{/}
 UI_20150714_001629	{@st66b}Mostrar Nombre Personaje{/}
 UI_20150714_001630	{@st66b}Mostrar Solo Nombre de Equipo{/}
-UI_20150714_001631	{@st66b}Mostrar Otros Nombres de Jugadores{/}
+UI_20150714_001631	{@st66b}Mostrar Nombres de Jugadores{/}
 UI_20150714_001632	{@st66b}Automático{/}
 UI_20150714_001633	{@st66b}Mando{/}
 UI_20150714_001634	{@st66b}Teclado{/}
