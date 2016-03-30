@@ -264,8 +264,8 @@ UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}Inventario{/}
 UI_20150317_000265	{@st59}Cerrar{/}
 UI_20150317_000266	{@st59b}Equipamiento {nl} {@st59s}- Peinados/Disfraz: Equípatelos para cambiar la apariencia del personaje. {nl} - Arma: Puedes equipar una arma de una mano o de dos manos {nl} (arma secundaria/escudos pueden ser equipados con un arma de una mano) {nl} - Armadura: Superior, Inferior, Guantes, Calzado. {nl} - Accessorios: Puedes equipar 1 Collar y 2 Brazaletes. {nl} {/}
-UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
-UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
+UI_20150317_000267	{@st59}Peinado Personalizado 1{/}
+UI_20150317_000268	{@st59}Peinado Personalizado 2{/}
 UI_20150317_000269	{@st59}Collar{/}
 UI_20150317_000270	{@st59}Disfraz{/}
 UI_20150317_000271	{@st59}Superior{/}
