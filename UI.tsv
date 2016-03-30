@@ -1648,8 +1648,8 @@ UI_20150714_001647	{@st66b}Aplicar Glow{/}
 UI_20150714_001648	{@st66b}Aplicar Profundidad{/}
 UI_20150714_001649	{@st66b}Aplicar Partículas Suaves{/}
 UI_20150714_001650	{@st66b}Aplicar Texturas Altas {/}
-UI_20150714_001651	{@st66b}Sincronización vertical Encendida{/}
-UI_20150714_001652	{@st66b}Sincronización vertical Apagada{/}
+UI_20150714_001651	{@st66b}Vsync Encendida{/}
+UI_20150714_001652	{@st66b}Vsync Apagada{/}
 UI_20150714_001653	{@st66b} %s plata es cobrada cuando almacenas y tomas items del almacén.{/}
 UI_20150714_001654	%s como yo
 UI_20150714_001655	{@st41}Espectar
