@@ -1694,10 +1694,10 @@ UI_20150714_001693	{@st41}Refrescar
 UI_20150717_001694	{#ffff00}%s{/} jugadores como este personaje
 UI_20150717_001695	{@st41b}{s56}Este juego es {#0066FF}
 UI_20150717_001696	Calificado T.
-UI_20150717_001697	{s40} {nl}Estar jugando al juego por largos periodos de tiempo puede tener un impacto negativo en tu salud.{/}
+UI_20150717_001697	{s40} {nl}Jugar largos periodos de tiempo puede tener un impacto negativo en tu salud.{/}
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}Info Mi Invocación
-UI_20150717_001700	Tu movimiento se relentiza cuando no tienes sufciente{@st59}STA{/}
+UI_20150717_001700	Tu movimiento se ralentiza cuando no tienes suficiente{@st59}STA{/}
 UI_20150717_001701	{@st59}Ordenar tu inventario{/}
 UI_20150717_001702	Ordenar
 UI_20150717_001703	{@st59}Cerrar{/}
