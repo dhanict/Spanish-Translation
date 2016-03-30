@@ -1732,7 +1732,7 @@ UI_20150717_001731	{@st41}Mover instantáneamente
 UI_20150717_001732	{@st41b}            El Nombre de Equipo representa a todos tus personajes.{nl}                 Es un nombre común que se utiliza dentro del juego.{nl}                  Su Nombre de Equipo se puede cambiar más adelante.{/}
 UI_20150729_001733	{@st42}Mostrar solo atributos que pueden ser aprendidos{/}
 UI_20150729_001734	Leg Count
-UI_20150729_001735	LLave
+UI_20150729_001735	Tecla
 UI_20150729_001736	Peso
 UI_20150729_001737	{@st43}Gem Roasting{/}
 UI_20150729_001738	{@st59b}Fabricando Items{nl}{@st59s} - Un item puede ser fabricado mediante el uso de una receta.{nl} - Coloca la receta y los materiales requeridos en el hueco para empezar a fabricar el item. {nl} - Puede agregar un nombre único y memo al item.{/}
